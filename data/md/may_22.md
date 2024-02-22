@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Archimedes calculates areas and volumes relating to conic sections, such as the area bounded between a parabola and a chord, and various volumes of revolution.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes calculates areas and volumes relating to conic sections, such as the area bounded between a parabola and a chord, and various volumes of revolution.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes calculates areas and volumes relating to conic sections, such as the area bounded between a parabola and a chord, and various volumes of revolution.','_blank')"> 
 Search on Google
 </button>
 

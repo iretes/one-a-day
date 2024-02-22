@@ -71,7 +71,7 @@ Search on Google
 > *1500: Scipione del Ferro solves the special cubic equation *
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1500: Scipione del Ferro solves the special cubic equation ','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1500: Scipione del Ferro solves the special cubic equation ','_blank')"> 
 Search on Google
 </button>
 

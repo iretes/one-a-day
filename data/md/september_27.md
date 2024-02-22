@@ -71,7 +71,7 @@ Search on Google
 > *1858: Rudolf Virchow: cells can only arise from pre-existing cells.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1858: Rudolf Virchow: cells can only arise from pre-existing cells.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1858: Rudolf Virchow: cells can only arise from pre-existing cells.','_blank')"> 
 Search on Google
 </button>
 

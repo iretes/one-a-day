@@ -71,7 +71,7 @@ Search on Google
 > *1668: Francesco Redi: disproved idea of spontaneous generation.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1668: Francesco Redi: disproved idea of spontaneous generation.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1668: Francesco Redi: disproved idea of spontaneous generation.','_blank')"> 
 Search on Google
 </button>
 

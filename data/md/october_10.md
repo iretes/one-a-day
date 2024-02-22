@@ -71,7 +71,7 @@ Search on Google
 > *1380: Madhava of Sangamagrama discusses error terms in infinite series in the context of his infinite series for π.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama discusses error terms in infinite series in the context of his infinite series for π.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama discusses error terms in infinite series in the context of his infinite series for π.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1896: Svante Arrhenius derives the basic principles of the greenhouse effect*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1896: Svante Arrhenius derives the basic principles of the greenhouse effect','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1896: Svante Arrhenius derives the basic principles of the greenhouse effect','_blank')"> 
 Search on Google
 </button>
 

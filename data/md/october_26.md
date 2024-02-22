@@ -71,7 +71,7 @@ Search on Google
 > *2650 BC: The oldest extant record of a unit of length, the cubit-rod ruler, is from Nippur.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2650 BC: The oldest extant record of a unit of length, the cubit-rod ruler, is from Nippur.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2650 BC: The oldest extant record of a unit of length, the cubit-rod ruler, is from Nippur.','_blank')"> 
 Search on Google
 </button>
 

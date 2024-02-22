@@ -71,7 +71,7 @@ Search on Google
 > *1974: Russell Alan Hulse and Joseph Hooton Taylor, Jr. discover indirect evidence for gravitational wave radiation in the Hulse–Taylor binary*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1974: Russell Alan Hulse and Joseph Hooton Taylor, Jr. discover indirect evidence for gravitational wave radiation in the Hulse–Taylor binary','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1974: Russell Alan Hulse and Joseph Hooton Taylor, Jr. discover indirect evidence for gravitational wave radiation in the Hulse–Taylor binary','_blank')"> 
 Search on Google
 </button>
 

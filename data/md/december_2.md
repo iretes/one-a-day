@@ -71,7 +71,7 @@ Search on Google
 > *1982: Donald C. Backer et al. discover the first millisecond pulsar*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1982: Donald C. Backer et al. discover the first millisecond pulsar','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1982: Donald C. Backer et al. discover the first millisecond pulsar','_blank')"> 
 Search on Google
 </button>
 

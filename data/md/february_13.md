@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Aristotle differentiates between near-sighted and far-sightedness. Graeco-Roman physician Galen would later use the term "myopia" for near-sightedness.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Aristotle differentiates between near-sighted and far-sightedness. Graeco-Roman physician Galen would later use the term "myopia" for near-sightedness.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Aristotle differentiates between near-sighted and far-sightedness. Graeco-Roman physician Galen would later use the term myopia for near-sightedness.','_blank')"> 
 Search on Google
 </button>
 

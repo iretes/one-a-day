@@ -71,7 +71,7 @@ Search on Google
 > *2020: The Double Asteroid Redirection Test (DART) successfully made contact with Dimorphos, in a test operated by NASA to test potential planetary defense to near-Earth objects.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: The Double Asteroid Redirection Test (DART) successfully made contact with Dimorphos, in a test operated by NASA to test potential planetary defense to near-Earth objects.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: The Double Asteroid Redirection Test (DART) successfully made contact with Dimorphos, in a test operated by NASA to test potential planetary defense to near-Earth objects.','_blank')"> 
 Search on Google
 </button>
 

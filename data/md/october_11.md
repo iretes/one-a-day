@@ -71,7 +71,7 @@ Search on Google
 > *1931: Kurt Gödel: incompleteness theorems prove formal axiomatic systems are incomplete*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1931: Kurt Gödel: incompleteness theorems prove formal axiomatic systems are incomplete','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1931: Kurt Gödel: incompleteness theorems prove formal axiomatic systems are incomplete','_blank')"> 
 Search on Google
 </button>
 

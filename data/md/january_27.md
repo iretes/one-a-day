@@ -71,7 +71,7 @@ Search on Google
 > *1500: Nilakantha Somayaji develops a model similar to the Tychonic system. His model has been described as mathematically more efficient than the Tychonic system due to correctly considering the equation of the centre and latitudinal motion of Mercury and Venus.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1500: Nilakantha Somayaji develops a model similar to the Tychonic system. His model has been described as mathematically more efficient than the Tychonic system due to correctly considering the equation of the centre and latitudinal motion of Mercury and Venus.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1500: Nilakantha Somayaji develops a model similar to the Tychonic system. His model has been described as mathematically more efficient than the Tychonic system due to correctly considering the equation of the centre and latitudinal motion of Mercury and Venus.','_blank')"> 
 Search on Google
 </button>
 

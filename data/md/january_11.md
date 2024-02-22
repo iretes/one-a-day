@@ -71,7 +71,7 @@ Search on Google
 > *2022: The complete human genome is sequenced.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2022: The complete human genome is sequenced.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2022: The complete human genome is sequenced.','_blank')"> 
 Search on Google
 </button>
 

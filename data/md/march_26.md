@@ -71,7 +71,7 @@ Search on Google
 > *2010: The Neanderthal Genome Project presented preliminary genetic evidence that interbreeding did likely take place and that a small but significant portion of Neanderthal admixture is present in modern non-African populations.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2010: The Neanderthal Genome Project presented preliminary genetic evidence that interbreeding did likely take place and that a small but significant portion of Neanderthal admixture is present in modern non-African populations.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2010: The Neanderthal Genome Project presented preliminary genetic evidence that interbreeding did likely take place and that a small but significant portion of Neanderthal admixture is present in modern non-African populations.','_blank')"> 
 Search on Google
 </button>
 

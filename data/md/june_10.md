@@ -71,7 +71,7 @@ Search on Google
 > *300 BC: Finite geometric progressions are studied by Euclid in Ptolemaic Egypt.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=300 BC: Finite geometric progressions are studied by Euclid in Ptolemaic Egypt.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=300 BC: Finite geometric progressions are studied by Euclid in Ptolemaic Egypt.','_blank')"> 
 Search on Google
 </button>
 

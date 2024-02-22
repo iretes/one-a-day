@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Pingala in Mauryan India describes the Fibonacci sequence.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Pingala in Mauryan India describes the Fibonacci sequence.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Pingala in Mauryan India describes the Fibonacci sequence.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1905: Albert Einstein: theory of special relativity, explanation of Brownian motion, and photoelectric effect*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1905: Albert Einstein: theory of special relativity, explanation of Brownian motion, and photoelectric effect','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1905: Albert Einstein: theory of special relativity, explanation of Brownian motion, and photoelectric effect','_blank')"> 
 Search on Google
 </button>
 

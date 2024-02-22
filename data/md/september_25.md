@@ -71,7 +71,7 @@ Search on Google
 > *1614: John Napier: use of logarithms for calculation.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1614: John Napier: use of logarithms for calculation.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1614: John Napier: use of logarithms for calculation.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1824: Carnot: described the Carnot cycle, the idealized heat engine.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1824: Carnot: described the Carnot cycle, the idealized heat engine.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1824: Carnot: described the Carnot cycle, the idealized heat engine.','_blank')"> 
 Search on Google
 </button>
 

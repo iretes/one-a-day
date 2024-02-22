@@ -71,7 +71,7 @@ Search on Google
 > *1380: Madhava of Sangamagrama discovers continued fractions and uses them to solve transcendental equations.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama discovers continued fractions and uses them to solve transcendental equations.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama discovers continued fractions and uses them to solve transcendental equations.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1628: Willebrord Snellius: the law of refraction also known as Snell's law.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1628: Willebrord Snellius: the law of refraction also known as Snell s law.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1628: Willebrord Snellius: the law of refraction also known as Snell s law.','_blank')"> 
 Search on Google
 </button>
 

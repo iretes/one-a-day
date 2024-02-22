@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Pingala in Mauryan India studies binary numbers, making him the first to study the radix (numerical base) in history.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Pingala in Mauryan India studies binary numbers, making him the first to study the radix (numerical base) in history.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Pingala in Mauryan India studies binary numbers, making him the first to study the radix (numerical base) in history.','_blank')"> 
 Search on Google
 </button>
 

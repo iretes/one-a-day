@@ -71,7 +71,7 @@ Search on Google
 > *2020: Space company SpaceX sent two NASA astronauts to the International Space Station on 30 May 2020, marking the first time a private company completed a crewed orbital spaceflight mission.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: Space company SpaceX sent two NASA astronauts to the International Space Station on 30 May 2020, marking the first time a private company completed a crewed orbital spaceflight mission.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: Space company SpaceX sent two NASA astronauts to the International Space Station on 30 May 2020, marking the first time a private company completed a crewed orbital spaceflight mission.','_blank')"> 
 Search on Google
 </button>
 

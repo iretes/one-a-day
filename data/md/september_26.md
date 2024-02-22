@@ -71,7 +71,7 @@ Search on Google
 > *1665: Robert Hooke: discovers the cell.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1665: Robert Hooke: discovers the cell.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1665: Robert Hooke: discovers the cell.','_blank')"> 
 Search on Google
 </button>
 

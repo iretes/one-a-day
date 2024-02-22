@@ -71,7 +71,7 @@ Search on Google
 > *1778: Antoine Lavoisier (and Joseph Priestley): discovery of oxygen leading to end of Phlogiston theory.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1778: Antoine Lavoisier (and Joseph Priestley): discovery of oxygen leading to end of Phlogiston theory.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1778: Antoine Lavoisier (and Joseph Priestley): discovery of oxygen leading to end of Phlogiston theory.','_blank')"> 
 Search on Google
 </button>
 

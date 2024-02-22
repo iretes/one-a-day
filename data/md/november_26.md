@@ -71,7 +71,7 @@ Search on Google
 > *1861: Louis Pasteur: Germ theory.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1861: Louis Pasteur: Germ theory.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1861: Louis Pasteur: Germ theory.','_blank')"> 
 Search on Google
 </button>
 

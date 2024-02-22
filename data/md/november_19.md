@@ -71,7 +71,7 @@ Search on Google
 > *1796: Georges Cuvier: Establishes extinction as a fact.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1796: Georges Cuvier: Establishes extinction as a fact.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1796: Georges Cuvier: Establishes extinction as a fact.','_blank')"> 
 Search on Google
 </button>
 

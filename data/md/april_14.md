@@ -71,7 +71,7 @@ Search on Google
 > *1909: Fritz Haber: Haber Process for industrial production of ammonia*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1909: Fritz Haber: Haber Process for industrial production of ammonia','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1909: Fritz Haber: Haber Process for industrial production of ammonia','_blank')"> 
 Search on Google
 </button>
 

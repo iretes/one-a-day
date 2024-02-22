@@ -71,7 +71,7 @@ Search on Google
 > *1827: Evariste Galois development of group theory.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1827: Evariste Galois development of group theory.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1827: Evariste Galois development of group theory.','_blank')"> 
 Search on Google
 </button>
 

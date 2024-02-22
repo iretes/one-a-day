@@ -71,7 +71,7 @@ Search on Google
 > *1750: Joseph Black: describes latent heat.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1750: Joseph Black: describes latent heat.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1750: Joseph Black: describes latent heat.','_blank')"> 
 Search on Google
 </button>
 

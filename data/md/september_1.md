@@ -71,7 +71,7 @@ Search on Google
 > *1856: Robert Forester Mushet develops a process for the decarbonisation, and re-carbonisation of iron, through the addition of a calculated quantity of spiegeleisen, to produce cheap, consistently high quality steel.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1856: Robert Forester Mushet develops a process for the decarbonisation, and re-carbonisation of iron, through the addition of a calculated quantity of spiegeleisen, to produce cheap, consistently high quality steel.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1856: Robert Forester Mushet develops a process for the decarbonisation, and re-carbonisation of iron, through the addition of a calculated quantity of spiegeleisen, to produce cheap, consistently high quality steel.','_blank')"> 
 Search on Google
 </button>
 

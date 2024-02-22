@@ -71,7 +71,7 @@ Search on Google
 > *Early 2nd millennium BC: Similar triangles and side-ratios are studied in Egypt for the construction of pyramids, paving the way for the field of trigonometry.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=Early 2nd millennium BC: Similar triangles and side-ratios are studied in Egypt for the construction of pyramids, paving the way for the field of trigonometry.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=Early 2nd millennium BC: Similar triangles and side-ratios are studied in Egypt for the construction of pyramids, paving the way for the field of trigonometry.','_blank')"> 
 Search on Google
 </button>
 

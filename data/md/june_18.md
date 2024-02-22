@@ -71,7 +71,7 @@ Search on Google
 > *1600: William Gilbert: Earth's magnetic field.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1600: William Gilbert: Earth s magnetic field.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1600: William Gilbert: Earth s magnetic field.','_blank')"> 
 Search on Google
 </button>
 

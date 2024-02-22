@@ -71,7 +71,7 @@ Search on Google
 > *2022: The first image of the supermassive black hole inside Milky Way was captured by the Event Horizon Telescope.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2022: The first image of the supermassive black hole inside Milky Way was captured by the Event Horizon Telescope.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2022: The first image of the supermassive black hole inside Milky Way was captured by the Event Horizon Telescope.','_blank')"> 
 Search on Google
 </button>
 

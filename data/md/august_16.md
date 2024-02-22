@@ -71,7 +71,7 @@ Search on Google
 > *1948: Claude Elwood Shannon: 'A mathematical theory of communication' a seminal paper in Information theory.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1948: Claude Elwood Shannon:  A mathematical theory of communication  a seminal paper in Information theory.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1948: Claude Elwood Shannon:  A mathematical theory of communication  a seminal paper in Information theory.','_blank')"> 
 Search on Google
 </button>
 

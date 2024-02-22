@@ -71,7 +71,7 @@ Search on Google
 > *2021: On 11 July, Virgin Galactic became the first spaceflight company to independently launch a paying civilian into outer space using the 50-mile high definition of outer space, having flown Virgin Galactic founder Sir Richard Branson above the 50 mile mark, enabling him and the rest of the crew to experience approximately 3 minutes of weightlessness above Earth's atmosphere.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2021: On 11 July, Virgin Galactic became the first spaceflight company to independently launch a paying civilian into outer space using the 50-mile high definition of outer space, having flown Virgin Galactic founder Sir Richard Branson above the 50 mile mark, enabling him and the rest of the crew to experience approximately 3 minutes of weightlessness above Earth s atmosphere.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2021: On 11 July, Virgin Galactic became the first spaceflight company to independently launch a paying civilian into outer space using the 50-mile high definition of outer space, having flown Virgin Galactic founder Sir Richard Branson above the 50 mile mark, enabling him and the rest of the crew to experience approximately 3 minutes of weightlessness above Earth s atmosphere.','_blank')"> 
 Search on Google
 </button>
 

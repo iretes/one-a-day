@@ -71,7 +71,7 @@ Search on Google
 > *350 BC - 50 BC: Clay tablets from (possibly Hellenistic-era) Babylon describe the mean speed theorem.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=350 BC - 50 BC: Clay tablets from (possibly Hellenistic-era) Babylon describe the mean speed theorem.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=350 BC - 50 BC: Clay tablets from (possibly Hellenistic-era) Babylon describe the mean speed theorem.','_blank')"> 
 Search on Google
 </button>
 

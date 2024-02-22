@@ -71,7 +71,7 @@ Search on Google
 > *1628: William Harvey: blood circulation.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1628: William Harvey: blood circulation.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1628: William Harvey: blood circulation.','_blank')"> 
 Search on Google
 </button>
 

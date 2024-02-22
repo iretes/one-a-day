@@ -71,7 +71,7 @@ Search on Google
 > *1543: Vesalius: pioneering research into human anatomy.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1543: Vesalius: pioneering research into human anatomy.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1543: Vesalius: pioneering research into human anatomy.','_blank')"> 
 Search on Google
 </button>
 

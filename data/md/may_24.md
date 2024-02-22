@@ -71,7 +71,7 @@ Search on Google
 > *1964: Arno Penzias and Robert Woodrow Wilson: detection of CMBR providing experimental evidence for the Big Bang*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1964: Arno Penzias and Robert Woodrow Wilson: detection of CMBR providing experimental evidence for the Big Bang','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1964: Arno Penzias and Robert Woodrow Wilson: detection of CMBR providing experimental evidence for the Big Bang','_blank')"> 
 Search on Google
 </button>
 

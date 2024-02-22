@@ -71,7 +71,7 @@ Search on Google
 > *1838: Matthias Schleiden: all plants are made of cells.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1838: Matthias Schleiden: all plants are made of cells.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1838: Matthias Schleiden: all plants are made of cells.','_blank')"> 
 Search on Google
 </button>
 

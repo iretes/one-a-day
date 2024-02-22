@@ -71,7 +71,7 @@ Search on Google
 > *1669: Nicholas Steno: proposes that fossils are organic remains embedded in layers of sediment, basis of stratigraphy.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1669: Nicholas Steno: proposes that fossils are organic remains embedded in layers of sediment, basis of stratigraphy.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1669: Nicholas Steno: proposes that fossils are organic remains embedded in layers of sediment, basis of stratigraphy.','_blank')"> 
 Search on Google
 </button>
 

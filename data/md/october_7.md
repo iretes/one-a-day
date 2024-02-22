@@ -71,7 +71,7 @@ Search on Google
 > *1918: Emmy Noether: Noether's theorem – conditions under which the conservation laws are valid*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1918: Emmy Noether: Noether s theorem – conditions under which the conservation laws are valid','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1918: Emmy Noether: Noether s theorem – conditions under which the conservation laws are valid','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *60 AD: Heron's formula is discovered by Hero of Alexandria.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=60 AD: Heron s formula is discovered by Hero of Alexandria.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=60 AD: Heron s formula is discovered by Hero of Alexandria.','_blank')"> 
 Search on Google
 </button>
 

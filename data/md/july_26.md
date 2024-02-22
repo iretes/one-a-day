@@ -71,7 +71,7 @@ Search on Google
 > *1932: Karl Guthe Jansky discovers the first astronomical radio source, Sagittarius A*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1932: Karl Guthe Jansky discovers the first astronomical radio source, Sagittarius A','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1932: Karl Guthe Jansky discovers the first astronomical radio source, Sagittarius A','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1967: Jocelyn Bell Burnell and Antony Hewish discover first pulsar*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1967: Jocelyn Bell Burnell and Antony Hewish discover first pulsar','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1967: Jocelyn Bell Burnell and Antony Hewish discover first pulsar','_blank')"> 
 Search on Google
 </button>
 

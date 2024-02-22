@@ -71,7 +71,7 @@ Search on Google
 > *150: The Almagest of Ptolemy contains evidence of the Hellenistic zero. Unlike the earlier Babylonian zero, the Hellenistic zero could be used alone, or at the end of a number. However, it was usually used in the fractional part of a numeral, and was not regarded as a true arithmetical number itself.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=150: The Almagest of Ptolemy contains evidence of the Hellenistic zero. Unlike the earlier Babylonian zero, the Hellenistic zero could be used alone, or at the end of a number. However, it was usually used in the fractional part of a numeral, and was not regarded as a true arithmetical number itself.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=150: The Almagest of Ptolemy contains evidence of the Hellenistic zero. Unlike the earlier Babylonian zero, the Hellenistic zero could be used alone, or at the end of a number. However, it was usually used in the fractional part of a numeral, and was not regarded as a true arithmetical number itself.','_blank')"> 
 Search on Google
 </button>
 

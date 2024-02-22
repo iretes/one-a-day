@@ -71,7 +71,7 @@ Search on Google
 > *2017: Gravitational wave signal GW170817 was observed by the LIGO/Virgo collaboration. This was the first instance of a gravitational wave event that was observed to have a simultaneous electromagnetic signal when space telescopes like Hubble observed lights coming from the event, thereby marking a significant breakthrough for multi-messenger astronomy.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2017: Gravitational wave signal GW170817 was observed by the LIGO/Virgo collaboration. This was the first instance of a gravitational wave event that was observed to have a simultaneous electromagnetic signal when space telescopes like Hubble observed lights coming from the event, thereby marking a significant breakthrough for multi-messenger astronomy.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2017: Gravitational wave signal GW170817 was observed by the LIGO/Virgo collaboration. This was the first instance of a gravitational wave event that was observed to have a simultaneous electromagnetic signal when space telescopes like Hubble observed lights coming from the event, thereby marking a significant breakthrough for multi-messenger astronomy.','_blank')"> 
 Search on Google
 </button>
 

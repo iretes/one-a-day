@@ -71,7 +71,7 @@ Search on Google
 > *2019: The first image of a black hole was captured, using eight different telescopes taking simultaneous pictures, timed with extremely precise atomic clocks.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2019: The first image of a black hole was captured, using eight different telescopes taking simultaneous pictures, timed with extremely precise atomic clocks.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2019: The first image of a black hole was captured, using eight different telescopes taking simultaneous pictures, timed with extremely precise atomic clocks.','_blank')"> 
 Search on Google
 </button>
 

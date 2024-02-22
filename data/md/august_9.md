@@ -71,7 +71,7 @@ Search on Google
 > *1880s: John Hopkinson develops three-phase electrical supplies, mathematically proves how multiple AC dynamos can be connected in parallel, improves permanent magnets, and dynamo efficiency, by the addition of tungsten, and describes how temperature effects magnetism (Hopkinson effect).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1880s: John Hopkinson develops three-phase electrical supplies, mathematically proves how multiple AC dynamos can be connected in parallel, improves permanent magnets, and dynamo efficiency, by the addition of tungsten, and describes how temperature effects magnetism (Hopkinson effect).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1880s: John Hopkinson develops three-phase electrical supplies, mathematically proves how multiple AC dynamos can be connected in parallel, improves permanent magnets, and dynamo efficiency, by the addition of tungsten, and describes how temperature effects magnetism (Hopkinson effect).','_blank')"> 
 Search on Google
 </button>
 

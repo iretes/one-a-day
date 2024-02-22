@@ -71,7 +71,7 @@ Search on Google
 > *9th century: Algorisms (arithmetical algorithms on numbers written in place-value system) are described by al-Khwarizmi in his kitāb al-ḥisāb al-hindī (Book of Indian computation) and kitab al-jam' wa'l-tafriq al-ḥisāb al-hindī (Addition and subtraction in Indian arithmetic).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=9th century: Algorisms (arithmetical algorithms on numbers written in place-value system) are described by al-Khwarizmi in his kitāb al-ḥisāb al-hindī (Book of Indian computation) and kitab al-jam  wa l-tafriq al-ḥisāb al-hindī (Addition and subtraction in Indian arithmetic).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=9th century: Algorisms (arithmetical algorithms on numbers written in place-value system) are described by al-Khwarizmi in his kitāb al-ḥisāb al-hindī (Book of Indian computation) and kitab al-jam  wa l-tafriq al-ḥisāb al-hindī (Addition and subtraction in Indian arithmetic).','_blank')"> 
 Search on Google
 </button>
 

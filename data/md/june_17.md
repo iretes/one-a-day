@@ -72,7 +72,7 @@ Search on Google
 > *Late 4th century BC: Chanakya (also known as Kautilya) establishes the field of economics with the Arthashastra (literally "Science of wealth"), a prescriptive treatise on economics and statecraft for Mauryan India.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=Late 4th century BC: Chanakya (also known as Kautilya) establishes the field of economics with the Arthashastra (literally "Science of wealth"), a prescriptive treatise on economics and statecraft for Mauryan India.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=Late 4th century BC: Chanakya (also known as Kautilya) establishes the field of economics with the Arthashastra (literally Science of wealth), a prescriptive treatise on economics and statecraft for Mauryan India.','_blank')"> 
 Search on Google
 </button>
 

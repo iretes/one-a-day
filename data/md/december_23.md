@@ -71,7 +71,7 @@ Search on Google
 > *1887: Albert A. Michelson and Edward W. Morley: Michelson–Morley experiment which showed a lack of evidence for the aether.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1887: Albert A. Michelson and Edward W. Morley: Michelson–Morley experiment which showed a lack of evidence for the aether.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1887: Albert A. Michelson and Edward W. Morley: Michelson–Morley experiment which showed a lack of evidence for the aether.','_blank')"> 
 Search on Google
 </button>
 

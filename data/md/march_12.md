@@ -71,7 +71,7 @@ Search on Google
 > *1995: Michel Mayor and Didier Queloz definitively observe the first extrasolar planet around a main sequence star*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1995: Michel Mayor and Didier Queloz definitively observe the first extrasolar planet around a main sequence star','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1995: Michel Mayor and Didier Queloz definitively observe the first extrasolar planet around a main sequence star','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1900: Max Planck: explains the emission spectrum of a black body*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1900: Max Planck: explains the emission spectrum of a black body','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1900: Max Planck: explains the emission spectrum of a black body','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *2023: India successfully touched down near the south pole of the Moon with Chandrayaan-3's lander on August 23, making it only the fourth country to achieve the feat of reaching lunar surface after the US, China and the erstwhile Soviet Union.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2023: India successfully touched down near the south pole of the Moon with Chandrayaan-3 s lander on August 23, making it only the fourth country to achieve the feat of reaching lunar surface after the US, China and the erstwhile Soviet Union.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2023: India successfully touched down near the south pole of the Moon with Chandrayaan-3 s lander on August 23, making it only the fourth country to achieve the feat of reaching lunar surface after the US, China and the erstwhile Soviet Union.','_blank')"> 
 Search on Google
 </button>
 

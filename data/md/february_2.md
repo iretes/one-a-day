@@ -71,7 +71,7 @@ Search on Google
 > *5th century BC: The earliest documented mention of a spherical Earth comes from the Greeks in the 5th century BC. It is known that the Indians modeled the Earth as spherical by 300 BC.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=5th century BC: The earliest documented mention of a spherical Earth comes from the Greeks in the 5th century BC. It is known that the Indians modeled the Earth as spherical by 300 BC.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=5th century BC: The earliest documented mention of a spherical Earth comes from the Greeks in the 5th century BC. It is known that the Indians modeled the Earth as spherical by 300 BC.','_blank')"> 
 Search on Google
 </button>
 

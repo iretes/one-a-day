@@ -71,7 +71,7 @@ Search on Google
 > *1672: Sir Isaac Newton: discovers that white light is a mixture of distinct coloured rays (the spectrum).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1672: Sir Isaac Newton: discovers that white light is a mixture of distinct coloured rays (the spectrum).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1672: Sir Isaac Newton: discovers that white light is a mixture of distinct coloured rays (the spectrum).','_blank')"> 
 Search on Google
 </button>
 

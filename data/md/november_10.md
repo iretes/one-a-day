@@ -71,7 +71,7 @@ Search on Google
 > *2020: NASA and SOFIA (Stratospheric Observatory for Infrared Astronomy) discovered about 12oz of surface water in one of the Moon's largest visible craters.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: NASA and SOFIA (Stratospheric Observatory for Infrared Astronomy) discovered about 12oz of surface water in one of the Moon s largest visible craters.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: NASA and SOFIA (Stratospheric Observatory for Infrared Astronomy) discovered about 12oz of surface water in one of the Moon s largest visible craters.','_blank')"> 
 Search on Google
 </button>
 

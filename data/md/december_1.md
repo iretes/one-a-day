@@ -71,7 +71,7 @@ Search on Google
 > *1977: Frederick Sanger sequences the first DNA genome of an organism using Sanger sequencing*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1977: Frederick Sanger sequences the first DNA genome of an organism using Sanger sequencing','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1977: Frederick Sanger sequences the first DNA genome of an organism using Sanger sequencing','_blank')"> 
 Search on Google
 </button>
 

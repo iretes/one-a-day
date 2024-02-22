@@ -71,7 +71,7 @@ Search on Google
 > *By the 5th century: The decimal separator is developed in India, as recorded in al-Uqlidisi's later commentary on Indian mathematics.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=By the 5th century: The decimal separator is developed in India, as recorded in al-Uqlidisi s later commentary on Indian mathematics.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=By the 5th century: The decimal separator is developed in India, as recorded in al-Uqlidisi s later commentary on Indian mathematics.','_blank')"> 
 Search on Google
 </button>
 

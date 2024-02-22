@@ -71,7 +71,7 @@ Search on Google
 > *1267: Roger Bacon publishes his Opus Majus, compiling translated Classical Greek, and Arabic works on mathematics, optics, and alchemy into a volume, and details his methods for evaluating the theories, particularly those of Ptolemy's 2nd century Optics, and his findings on the production of lenses, asserting “theories supplied by reason should be verified by sensory data, aided by instruments, and corroborated by trustworthy witnesses", in a precursor to the peer reviewed scientific method.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1267: Roger Bacon publishes his Opus Majus, compiling translated Classical Greek, and Arabic works on mathematics, optics, and alchemy into a volume, and details his methods for evaluating the theories, particularly those of Ptolemy s 2nd century Optics, and his findings on the production of lenses, asserting “theories supplied by reason should be verified by sensory data, aided by instruments, and corroborated by trustworthy witnesses", in a precursor to the peer reviewed scientific method.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1267: Roger Bacon publishes his Opus Majus, compiling translated Classical Greek, and Arabic works on mathematics, optics, and alchemy into a volume, and details his methods for evaluating the theories, particularly those of Ptolemy s 2nd century Optics, and his findings on the production of lenses, asserting “theories supplied by reason should be verified by sensory data, aided by instruments, and corroborated by trustworthy witnesses, in a precursor to the peer reviewed scientific method.','_blank')"> 
 Search on Google
 </button>
 

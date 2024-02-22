@@ -71,7 +71,7 @@ Search on Google
 > *1869: Dmitri Mendeleev: Periodic table.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1869: Dmitri Mendeleev: Periodic table.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1869: Dmitri Mendeleev: Periodic table.','_blank')"> 
 Search on Google
 </button>
 

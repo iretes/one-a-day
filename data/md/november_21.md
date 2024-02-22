@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Archimedes uses the method of exhaustion to construct a strict inequality bounding the value of π within an interval of 0.002.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes uses the method of exhaustion to construct a strict inequality bounding the value of π within an interval of 0.002.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes uses the method of exhaustion to construct a strict inequality bounding the value of π within an interval of 0.002.','_blank')"> 
 Search on Google
 </button>
 

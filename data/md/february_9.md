@@ -71,7 +71,7 @@ Search on Google
 > *1380: Madhava of Sangamagrama discovers the most precise estimate of π in the medieval world through his infinite series, a strict inequality with uncertainty 3e-13.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama discovers the most precise estimate of π in the medieval world through his infinite series, a strict inequality with uncertainty 3e-13.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama discovers the most precise estimate of π in the medieval world through his infinite series, a strict inequality with uncertainty 3e-13.','_blank')"> 
 Search on Google
 </button>
 

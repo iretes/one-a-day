@@ -71,7 +71,7 @@ Search on Google
 > *2012: Higgs boson is discovered at CERN (confirmed to 99.999% certainty)*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2012: Higgs boson is discovered at CERN (confirmed to 99.999% certainty)','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2012: Higgs boson is discovered at CERN (confirmed to 99.999% certainty)','_blank')"> 
 Search on Google
 </button>
 

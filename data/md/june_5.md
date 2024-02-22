@@ -71,7 +71,7 @@ Search on Google
 > *2021: NASA's James Webb Space Telescope is successfully launched into orbit.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2021: NASA s James Webb Space Telescope is successfully launched into orbit.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2021: NASA s James Webb Space Telescope is successfully launched into orbit.','_blank')"> 
 Search on Google
 </button>
 

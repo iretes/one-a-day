@@ -71,7 +71,7 @@ Search on Google
 > *1220s: Robert Grosseteste writes on optics, and the production of lenses, while asserting models should be developed from observations, and predictions of those models verified through observation, in a precursor to the scientific method.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1220s: Robert Grosseteste writes on optics, and the production of lenses, while asserting models should be developed from observations, and predictions of those models verified through observation, in a precursor to the scientific method.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1220s: Robert Grosseteste writes on optics, and the production of lenses, while asserting models should be developed from observations, and predictions of those models verified through observation, in a precursor to the scientific method.','_blank')"> 
 Search on Google
 </button>
 

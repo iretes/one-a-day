@@ -71,7 +71,7 @@ Search on Google
 > *1927: Werner Heisenberg: Uncertainty principle (Quantum mechanics)*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1927: Werner Heisenberg: Uncertainty principle (Quantum mechanics)','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1927: Werner Heisenberg: Uncertainty principle (Quantum mechanics)','_blank')"> 
 Search on Google
 </button>
 

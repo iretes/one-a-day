@@ -71,7 +71,7 @@ Search on Google
 > *1805: John Dalton: Atomic Theory in (chemistry).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1805: John Dalton: Atomic Theory in (chemistry).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1805: John Dalton: Atomic Theory in (chemistry).','_blank')"> 
 Search on Google
 </button>
 

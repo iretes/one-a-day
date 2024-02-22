@@ -71,7 +71,7 @@ Search on Google
 > *1925: Cecilia Payne-Gaposchkin: Discovery of the composition of the Sun and that hydrogen is the most abundant element in the Universe*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1925: Cecilia Payne-Gaposchkin: Discovery of the composition of the Sun and that hydrogen is the most abundant element in the Universe','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1925: Cecilia Payne-Gaposchkin: Discovery of the composition of the Sun and that hydrogen is the most abundant element in the Universe','_blank')"> 
 Search on Google
 </button>
 

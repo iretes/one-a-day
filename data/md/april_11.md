@@ -71,7 +71,7 @@ Search on Google
 > *2014: Photonic metamaterials are discovered to make passive daytime radiative cooling possible by Raman et al.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2014: Photonic metamaterials are discovered to make passive daytime radiative cooling possible by Raman et al.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2014: Photonic metamaterials are discovered to make passive daytime radiative cooling possible by Raman et al.','_blank')"> 
 Search on Google
 </button>
 

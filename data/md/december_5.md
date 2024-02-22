@@ -71,7 +71,7 @@ Search on Google
 > *2nd century BC: Hipparchos discovers Axial precession.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2nd century BC: Hipparchos discovers Axial precession.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2nd century BC: Hipparchos discovers Axial precession.','_blank')"> 
 Search on Google
 </button>
 

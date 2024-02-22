@@ -71,7 +71,7 @@ Search on Google
 > *1871: Lord Rayleigh: Diffuse sky radiation (Rayleigh scattering) explains why sky appears blue.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1871: Lord Rayleigh: Diffuse sky radiation (Rayleigh scattering) explains why sky appears blue.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1871: Lord Rayleigh: Diffuse sky radiation (Rayleigh scattering) explains why sky appears blue.','_blank')"> 
 Search on Google
 </button>
 

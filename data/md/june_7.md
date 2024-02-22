@@ -71,7 +71,7 @@ Search on Google
 > *6th century: Varahamira in the Gupta empire is the first to describe comets as astronomical phenomena, and as periodic in nature.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=6th century: Varahamira in the Gupta empire is the first to describe comets as astronomical phenomena, and as periodic in nature.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=6th century: Varahamira in the Gupta empire is the first to describe comets as astronomical phenomena, and as periodic in nature.','_blank')"> 
 Search on Google
 </button>
 

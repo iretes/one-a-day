@@ -71,7 +71,7 @@ Search on Google
 > *1895: Wilhelm Conrad Röntgen discovers x-rays.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1895: Wilhelm Conrad Röntgen discovers x-rays.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1895: Wilhelm Conrad Röntgen discovers x-rays.','_blank')"> 
 Search on Google
 </button>
 

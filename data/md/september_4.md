@@ -71,7 +71,7 @@ Search on Google
 > *1673: Christiaan Huygens: first study of oscillating system and design of pendulum clocks*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1673: Christiaan Huygens: first study of oscillating system and design of pendulum clocks','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1673: Christiaan Huygens: first study of oscillating system and design of pendulum clocks','_blank')"> 
 Search on Google
 </button>
 

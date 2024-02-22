@@ -71,7 +71,7 @@ Search on Google
 > *2022: NASA successfully launches the Artemis 1 Moon mission on the SLS spacecraft after multiple delays.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2022: NASA successfully launches the Artemis 1 Moon mission on the SLS spacecraft after multiple delays.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2022: NASA successfully launches the Artemis 1 Moon mission on the SLS spacecraft after multiple delays.','_blank')"> 
 Search on Google
 </button>
 

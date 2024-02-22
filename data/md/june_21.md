@@ -71,7 +71,7 @@ Search on Google
 > *499: Aryabhata develops Kuṭṭaka, an algorithm very similar to the Extended Euclidean algorithm.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Aryabhata develops Kuṭṭaka, an algorithm very similar to the Extended Euclidean algorithm.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Aryabhata develops Kuṭṭaka, an algorithm very similar to the Extended Euclidean algorithm.','_blank')"> 
 Search on Google
 </button>
 

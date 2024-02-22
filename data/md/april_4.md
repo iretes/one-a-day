@@ -71,7 +71,7 @@ Search on Google
 > *1687: Sir Isaac Newton: classical mathematical description of the fundamental force of universal gravitation and the three physical laws of motion.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1687: Sir Isaac Newton: classical mathematical description of the fundamental force of universal gravitation and the three physical laws of motion.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1687: Sir Isaac Newton: classical mathematical description of the fundamental force of universal gravitation and the three physical laws of motion.','_blank')"> 
 Search on Google
 </button>
 

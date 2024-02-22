@@ -71,7 +71,7 @@ Search on Google
 > *2010: The first self-replicating, synthetic bacterial cells are constructed.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2010: The first self-replicating, synthetic bacterial cells are constructed.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2010: The first self-replicating, synthetic bacterial cells are constructed.','_blank')"> 
 Search on Google
 </button>
 

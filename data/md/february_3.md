@@ -71,7 +71,7 @@ Search on Google
 > *1827: Amedeo Avogadro: Avogadro's law (Gas law).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1827: Amedeo Avogadro: Avogadro s law (Gas law).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1827: Amedeo Avogadro: Avogadro s law (Gas law).','_blank')"> 
 Search on Google
 </button>
 

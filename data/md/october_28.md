@@ -71,7 +71,7 @@ Search on Google
 > *2023: On 23 August, Chandrayaan-3 successfully touches down in the lunar south pole region making India the fourth country to successfully land on the Moon, and the first to do so near the lunar south pole.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2023: On 23 August, Chandrayaan-3 successfully touches down in the lunar south pole region making India the fourth country to successfully land on the Moon, and the first to do so near the lunar south pole.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2023: On 23 August, Chandrayaan-3 successfully touches down in the lunar south pole region making India the fourth country to successfully land on the Moon, and the first to do so near the lunar south pole.','_blank')"> 
 Search on Google
 </button>
 

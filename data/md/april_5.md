@@ -71,7 +71,7 @@ Search on Google
 > *Early 2nd millennium BC: Ancient Egyptians study anatomy, as recorded in the Edwin Smith Papyrus. They identified the heart and its vessels, liver, spleen, kidneys, hypothalamus, uterus, and bladder, and correctly identified that blood vessels emanated from the heart (however, they also believed that tears, urine, and semen, but not saliva and sweat, originated in the heart, see Cardiocentric hypothesis).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=Early 2nd millennium BC: Ancient Egyptians study anatomy, as recorded in the Edwin Smith Papyrus. They identified the heart and its vessels, liver, spleen, kidneys, hypothalamus, uterus, and bladder, and correctly identified that blood vessels emanated from the heart (however, they also believed that tears, urine, and semen, but not saliva and sweat, originated in the heart, see Cardiocentric hypothesis).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=Early 2nd millennium BC: Ancient Egyptians study anatomy, as recorded in the Edwin Smith Papyrus. They identified the heart and its vessels, liver, spleen, kidneys, hypothalamus, uterus, and bladder, and correctly identified that blood vessels emanated from the heart (however, they also believed that tears, urine, and semen, but not saliva and sweat, originated in the heart, see Cardiocentric hypothesis).','_blank')"> 
 Search on Google
 </button>
 

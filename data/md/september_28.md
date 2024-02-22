@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Archimedes calculates tangents to non-trigonometric curves.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes calculates tangents to non-trigonometric curves.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes calculates tangents to non-trigonometric curves.','_blank')"> 
 Search on Google
 </button>
 

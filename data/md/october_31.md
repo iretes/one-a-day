@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Mozi in China gives a description of the camera obscura phenomenon.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Mozi in China gives a description of the camera obscura phenomenon.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Mozi in China gives a description of the camera obscura phenomenon.','_blank')"> 
 Search on Google
 </button>
 

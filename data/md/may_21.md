@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Pingala in Mauryan India discovers the binomial coefficients in a combinatorial context and the additive formula for generating them*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Pingala in Mauryan India discovers the binomial coefficients in a combinatorial context and the additive formula for generating them','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Pingala in Mauryan India discovers the binomial coefficients in a combinatorial context and the additive formula for generating them','_blank')"> 
 Search on Google
 </button>
 

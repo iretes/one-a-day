@@ -71,7 +71,7 @@ Search on Google
 > *2022: Text-to-image AI art systems such as DALL-E (1 and 2) and Stable Diffusion are announced, capable of generating highly detailed and realistic images from text prompts.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2022: Text-to-image AI art systems such as DALL-E (1 and 2) and Stable Diffusion are announced, capable of generating highly detailed and realistic images from text prompts.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2022: Text-to-image AI art systems such as DALL-E (1 and 2) and Stable Diffusion are announced, capable of generating highly detailed and realistic images from text prompts.','_blank')"> 
 Search on Google
 </button>
 

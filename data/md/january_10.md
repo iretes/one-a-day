@@ -71,7 +71,7 @@ Search on Google
 > *2014: Exotic hadrons are discovered at the LHCb*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2014: Exotic hadrons are discovered at the LHCb','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2014: Exotic hadrons are discovered at the LHCb','_blank')"> 
 Search on Google
 </button>
 

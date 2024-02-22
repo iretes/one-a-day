@@ -71,7 +71,7 @@ Search on Google
 > *628: Brahmagupta discovers second-order interpolation, in the form of Brahmagupta's interpolation formula.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta discovers second-order interpolation, in the form of Brahmagupta s interpolation formula.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta discovers second-order interpolation, in the form of Brahmagupta s interpolation formula.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Pāṇini develops a full-fledged formal grammar (for Sanskrit).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Pāṇini develops a full-fledged formal grammar (for Sanskrit).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Pāṇini develops a full-fledged formal grammar (for Sanskrit).','_blank')"> 
 Search on Google
 </button>
 

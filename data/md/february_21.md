@@ -71,7 +71,7 @@ Search on Google
 > *1868: Robert Forester Mushet discovers that alloying steel with tungsten produces a harder, more durable alloy..*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1868: Robert Forester Mushet discovers that alloying steel with tungsten produces a harder, more durable alloy..','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1868: Robert Forester Mushet discovers that alloying steel with tungsten produces a harder, more durable alloy..','_blank')"> 
 Search on Google
 </button>
 

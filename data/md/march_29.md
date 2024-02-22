@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Archimedes derives a formula for the volume of a sphere in The Method of Mechanical Theorems.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes derives a formula for the volume of a sphere in The Method of Mechanical Theorems.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes derives a formula for the volume of a sphere in The Method of Mechanical Theorems.','_blank')"> 
 Search on Google
 </button>
 

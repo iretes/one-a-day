@@ -80,7 +80,7 @@ Search on Google
 ## 🧑‍🔬 Scientific discovery of the day\n
 > *{discovery}*\n
 <button class="btn btn-success"
-onclick=" window.open(\'http://www.google.com/search?q={discovery.replace("'", " ")}\',\'_blank\')">
+onclick=" window.open(\'http://www.google.com/search?q={discovery.replace("'", " ").replace('"', '')}\',\'_blank\')"> 
 Search on Google
 </button>\n
 ## 💭 Philosophical concept of the day\n

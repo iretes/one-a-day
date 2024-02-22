@@ -71,7 +71,7 @@ Search on Google
 > *499: Aryabhata discovers the formula for the simplicial numbers (the sums of consecutive cube numbers).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Aryabhata discovers the formula for the simplicial numbers (the sums of consecutive cube numbers).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Aryabhata discovers the formula for the simplicial numbers (the sums of consecutive cube numbers).','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *16th century: Lodovico Ferrari solves the general quartic equation (by reducing it to the case with zero quartic term).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=16th century: Lodovico Ferrari solves the general quartic equation (by reducing it to the case with zero quartic term).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=16th century: Lodovico Ferrari solves the general quartic equation (by reducing it to the case with zero quartic term).','_blank')"> 
 Search on Google
 </button>
 

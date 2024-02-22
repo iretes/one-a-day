@@ -71,7 +71,7 @@ Search on Google
 > *By the 4th century: A square root finding algorithm with quartic convergence, known as the Bakhshali method (after the Bakhshali manuscript which records it), is discovered in India.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=By the 4th century: A square root finding algorithm with quartic convergence, known as the Bakhshali method (after the Bakhshali manuscript which records it), is discovered in India.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=By the 4th century: A square root finding algorithm with quartic convergence, known as the Bakhshali method (after the Bakhshali manuscript which records it), is discovered in India.','_blank')"> 
 Search on Google
 </button>
 

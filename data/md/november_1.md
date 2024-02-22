@@ -71,7 +71,7 @@ Search on Google
 > *150: Ptolemy's Almagest contains practical formulae to calculate latitudes and day lengths.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=150: Ptolemy s Almagest contains practical formulae to calculate latitudes and day lengths.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=150: Ptolemy s Almagest contains practical formulae to calculate latitudes and day lengths.','_blank')"> 
 Search on Google
 </button>
 

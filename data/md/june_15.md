@@ -71,7 +71,7 @@ Search on Google
 > *2100 BC: The concept of area is first recognized in Babylonian clay tablets, and 3-dimensional volume is discussed in an Egyptian papyrus. This begins the study of geometry.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2100 BC: The concept of area is first recognized in Babylonian clay tablets, and 3-dimensional volume is discussed in an Egyptian papyrus. This begins the study of geometry.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2100 BC: The concept of area is first recognized in Babylonian clay tablets, and 3-dimensional volume is discussed in an Egyptian papyrus. This begins the study of geometry.','_blank')"> 
 Search on Google
 </button>
 

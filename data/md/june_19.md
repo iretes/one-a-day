@@ -71,7 +71,7 @@ Search on Google
 > *1847: George Boole: publishes The Mathematical Analysis of Logic, defining Boolean algebra; refined in his 1854 The Laws of Thought.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1847: George Boole: publishes The Mathematical Analysis of Logic, defining Boolean algebra; refined in his 1854 The Laws of Thought.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1847: George Boole: publishes The Mathematical Analysis of Logic, defining Boolean algebra; refined in his 1854 The Laws of Thought.','_blank')"> 
 Search on Google
 </button>
 

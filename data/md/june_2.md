@@ -71,7 +71,7 @@ Search on Google
 > *165 BC - 142 BC: Zhang Cang in Northern China is credited with the development of Gaussian elimination.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=165 BC - 142 BC: Zhang Cang in Northern China is credited with the development of Gaussian elimination.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=165 BC - 142 BC: Zhang Cang in Northern China is credited with the development of Gaussian elimination.','_blank')"> 
 Search on Google
 </button>
 

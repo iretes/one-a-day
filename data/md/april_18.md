@@ -71,7 +71,7 @@ Search on Google
 > *9th century: Mahāvīra discovers the first algorithm for writing fractions as Egyptian fractions, which is in fact a slightly more general form of the Greedy algorithm for Egyptian fractions.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=9th century: Mahāvīra discovers the first algorithm for writing fractions as Egyptian fractions, which is in fact a slightly more general form of the Greedy algorithm for Egyptian fractions.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=9th century: Mahāvīra discovers the first algorithm for writing fractions as Egyptian fractions, which is in fact a slightly more general form of the Greedy algorithm for Egyptian fractions.','_blank')"> 
 Search on Google
 </button>
 

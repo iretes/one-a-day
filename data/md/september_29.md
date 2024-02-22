@@ -71,7 +71,7 @@ Search on Google
 > *499: Aryabhata discovers Bezout's identity, a foundational result to the theory of principal ideal domains.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Aryabhata discovers Bezout s identity, a foundational result to the theory of principal ideal domains.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Aryabhata discovers Bezout s identity, a foundational result to the theory of principal ideal domains.','_blank')"> 
 Search on Google
 </button>
 

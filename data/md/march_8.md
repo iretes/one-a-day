@@ -71,7 +71,7 @@ Search on Google
 > *700 BC: Pythagoras's theorem is discovered by Baudhayana in the Hindu Shulba Sutras in Upanishadic India. However, Indian mathematics, especially North Indian mathematics, generally did not have a tradition of communicating proofs, and it is not fully certain that Baudhayana or Apastamba knew of a proof.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=700 BC: Pythagoras s theorem is discovered by Baudhayana in the Hindu Shulba Sutras in Upanishadic India. However, Indian mathematics, especially North Indian mathematics, generally did not have a tradition of communicating proofs, and it is not fully certain that Baudhayana or Apastamba knew of a proof.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=700 BC: Pythagoras s theorem is discovered by Baudhayana in the Hindu Shulba Sutras in Upanishadic India. However, Indian mathematics, especially North Indian mathematics, generally did not have a tradition of communicating proofs, and it is not fully certain that Baudhayana or Apastamba knew of a proof.','_blank')"> 
 Search on Google
 </button>
 

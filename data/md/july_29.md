@@ -71,7 +71,7 @@ Search on Google
 > *629: Bhāskara I produces the first approximation of a transcendental function with a rational function, in the sine approximation formula that bears his name.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=629: Bhāskara I produces the first approximation of a transcendental function with a rational function, in the sine approximation formula that bears his name.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=629: Bhāskara I produces the first approximation of a transcendental function with a rational function, in the sine approximation formula that bears his name.','_blank')"> 
 Search on Google
 </button>
 

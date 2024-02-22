@@ -71,7 +71,7 @@ Search on Google
 > *1789: Antoine Lavoisier: law of conservation of mass, basis for chemistry, and the beginning of modern chemistry.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1789: Antoine Lavoisier: law of conservation of mass, basis for chemistry, and the beginning of modern chemistry.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1789: Antoine Lavoisier: law of conservation of mass, basis for chemistry, and the beginning of modern chemistry.','_blank')"> 
 Search on Google
 </button>
 

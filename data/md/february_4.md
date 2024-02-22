@@ -71,7 +71,7 @@ Search on Google
 > *1638: Galileo Galilei: laws of falling bodies.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1638: Galileo Galilei: laws of falling bodies.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1638: Galileo Galilei: laws of falling bodies.','_blank')"> 
 Search on Google
 </button>
 

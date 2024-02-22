@@ -71,7 +71,7 @@ Search on Google
 > *1938: Otto Hahn, Lise Meitner and Fritz Strassmann: Nuclear fission of heavy nuclei*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1938: Otto Hahn, Lise Meitner and Fritz Strassmann: Nuclear fission of heavy nuclei','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1938: Otto Hahn, Lise Meitner and Fritz Strassmann: Nuclear fission of heavy nuclei','_blank')"> 
 Search on Google
 </button>
 

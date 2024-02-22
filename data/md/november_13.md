@@ -71,7 +71,7 @@ Search on Google
 > *11th century: Alhazen systematically studies optics and refraction, which would later be important in making the connection between geometric (ray) optics and wave theory.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=11th century: Alhazen systematically studies optics and refraction, which would later be important in making the connection between geometric (ray) optics and wave theory.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=11th century: Alhazen systematically studies optics and refraction, which would later be important in making the connection between geometric (ray) optics and wave theory.','_blank')"> 
 Search on Google
 </button>
 

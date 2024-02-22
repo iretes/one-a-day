@@ -71,7 +71,7 @@ Search on Google
 > *1787: Jacques Charles: Charles's law of ideal gases.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1787: Jacques Charles: Charles s law of ideal gases.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1787: Jacques Charles: Charles s law of ideal gases.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *5th century BC: The Greeks start experimenting with straightedge-and-compass constructions.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=5th century BC: The Greeks start experimenting with straightedge-and-compass constructions.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=5th century BC: The Greeks start experimenting with straightedge-and-compass constructions.','_blank')"> 
 Search on Google
 </button>
 

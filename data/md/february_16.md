@@ -71,7 +71,7 @@ Search on Google
 > *10th century AD: Manjula in India discovers the derivative, deducing that the derivative of the sine function is the cosine.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=10th century AD: Manjula in India discovers the derivative, deducing that the derivative of the sine function is the cosine.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=10th century AD: Manjula in India discovers the derivative, deducing that the derivative of the sine function is the cosine.','_blank')"> 
 Search on Google
 </button>
 

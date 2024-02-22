@@ -71,7 +71,7 @@ Search on Google
 > *1928: Paul Dirac: Dirac equation (Quantum mechanics)*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1928: Paul Dirac: Dirac equation (Quantum mechanics)','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1928: Paul Dirac: Dirac equation (Quantum mechanics)','_blank')"> 
 Search on Google
 </button>
 

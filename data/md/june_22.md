@@ -71,7 +71,7 @@ Search on Google
 > *460 BC: Empedocles describes thermal expansion.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=460 BC: Empedocles describes thermal expansion.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=460 BC: Empedocles describes thermal expansion.','_blank')"> 
 Search on Google
 </button>
 

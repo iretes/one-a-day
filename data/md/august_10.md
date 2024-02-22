@@ -71,7 +71,7 @@ Search on Google
 > *1910: Williamina Fleming: the first white dwarf, 40 Eridani B*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1910: Williamina Fleming: the first white dwarf, 40 Eridani B','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1910: Williamina Fleming: the first white dwarf, 40 Eridani B','_blank')"> 
 Search on Google
 </button>
 

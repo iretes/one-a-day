@@ -71,7 +71,7 @@ Search on Google
 > *1965: Leonard Hayflick: normal cells divide only a certain number of times: the Hayflick limit*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1965: Leonard Hayflick: normal cells divide only a certain number of times: the Hayflick limit','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1965: Leonard Hayflick: normal cells divide only a certain number of times: the Hayflick limit','_blank')"> 
 Search on Google
 </button>
 

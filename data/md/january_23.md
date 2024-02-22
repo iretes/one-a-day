@@ -71,7 +71,7 @@ Search on Google
 > *2nd century BC: Hipparchos discovers the apsidal precession of the Moon's orbit.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2nd century BC: Hipparchos discovers the apsidal precession of the Moon s orbit.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2nd century BC: Hipparchos discovers the apsidal precession of the Moon s orbit.','_blank')"> 
 Search on Google
 </button>
 

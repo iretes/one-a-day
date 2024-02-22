@@ -71,7 +71,7 @@ Search on Google
 > *1800 BC - 1600 BC: A numerical approximation for the square root of two, accurate to 6 decimal places, is recorded on YBC 7289, a Babylonian clay tablet believed to belong to a student.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1800 BC - 1600 BC: A numerical approximation for the square root of two, accurate to 6 decimal places, is recorded on YBC 7289, a Babylonian clay tablet believed to belong to a student.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1800 BC - 1600 BC: A numerical approximation for the square root of two, accurate to 6 decimal places, is recorded on YBC 7289, a Babylonian clay tablet believed to belong to a student.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1929: Lars Onsager's reciprocal relations, a potential fourth law of thermodynamics*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1929: Lars Onsager s reciprocal relations, a potential fourth law of thermodynamics','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1929: Lars Onsager s reciprocal relations, a potential fourth law of thermodynamics','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *975: Halayudha organizes the binomial coefficients into a triangle, i.e. Pascal's triangle.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=975: Halayudha organizes the binomial coefficients into a triangle, i.e. Pascal s triangle.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=975: Halayudha organizes the binomial coefficients into a triangle, i.e. Pascal s triangle.','_blank')"> 
 Search on Google
 </button>
 

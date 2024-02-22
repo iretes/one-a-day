@@ -71,7 +71,7 @@ Search on Google
 > *1833: Anselme Payen isolates first enzyme, diastase.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1833: Anselme Payen isolates first enzyme, diastase.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1833: Anselme Payen isolates first enzyme, diastase.','_blank')"> 
 Search on Google
 </button>
 

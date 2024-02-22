@@ -71,7 +71,7 @@ Search on Google
 > *16th century: François Viète discovers Vieta's formulas.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=16th century: François Viète discovers Vieta s formulas.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=16th century: François Viète discovers Vieta s formulas.','_blank')"> 
 Search on Google
 </button>
 

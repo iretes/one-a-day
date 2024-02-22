@@ -71,7 +71,7 @@ Search on Google
 > *Late 5th century BC: Antiphon discovers the method of exhaustion, foreshadowing the concept of a limit.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=Late 5th century BC: Antiphon discovers the method of exhaustion, foreshadowing the concept of a limit.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=Late 5th century BC: Antiphon discovers the method of exhaustion, foreshadowing the concept of a limit.','_blank')"> 
 Search on Google
 </button>
 

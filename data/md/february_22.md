@@ -71,7 +71,7 @@ Search on Google
 > *1st to 4th century: A precursor to long division, known as "galley division" is developed at some point. Its discovery is generally believed to have originated in India around the 4th century AD, although Singaporean mathematician Lam Lay Yong claims that the method is found in the Chinese text The Nine Chapters on the Mathematical Art, from the 1st century AD.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1st to 4th century: A precursor to long division, known as "galley division" is developed at some point. Its discovery is generally believed to have originated in India around the 4th century AD, although Singaporean mathematician Lam Lay Yong claims that the method is found in the Chinese text The Nine Chapters on the Mathematical Art, from the 1st century AD.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1st to 4th century: A precursor to long division, known as galley division is developed at some point. Its discovery is generally believed to have originated in India around the 4th century AD, although Singaporean mathematician Lam Lay Yong claims that the method is found in the Chinese text The Nine Chapters on the Mathematical Art, from the 1st century AD.','_blank')"> 
 Search on Google
 </button>
 

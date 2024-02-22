@@ -71,7 +71,7 @@ Search on Google
 > *499: Historians speculate that Aryabhata may have used an underlying heliocentric model for his astronomical calculations, which would make it the first computational heliocentric model in history (as opposed to Aristarchus's model in form). This claim is based on his description of the planetary period about the Sun (śīghrocca), but has been met with criticism.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Historians speculate that Aryabhata may have used an underlying heliocentric model for his astronomical calculations, which would make it the first computational heliocentric model in history (as opposed to Aristarchus s model in form). This claim is based on his description of the planetary period about the Sun (śīghrocca), but has been met with criticism.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Historians speculate that Aryabhata may have used an underlying heliocentric model for his astronomical calculations, which would make it the first computational heliocentric model in history (as opposed to Aristarchus s model in form). This claim is based on his description of the planetary period about the Sun (śīghrocca), but has been met with criticism.','_blank')"> 
 Search on Google
 </button>
 

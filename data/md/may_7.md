@@ -71,7 +71,7 @@ Search on Google
 > *1876: Josiah Willard Gibbs founded chemical thermodynamics, the phase rule.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1876: Josiah Willard Gibbs founded chemical thermodynamics, the phase rule.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1876: Josiah Willard Gibbs founded chemical thermodynamics, the phase rule.','_blank')"> 
 Search on Google
 </button>
 

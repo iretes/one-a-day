@@ -71,7 +71,7 @@ Search on Google
 > *100: Menelaus of Alexandria describes spherical triangles, a precursor to non-Euclidean geometry.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=100: Menelaus of Alexandria describes spherical triangles, a precursor to non-Euclidean geometry.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=100: Menelaus of Alexandria describes spherical triangles, a precursor to non-Euclidean geometry.','_blank')"> 
 Search on Google
 </button>
 

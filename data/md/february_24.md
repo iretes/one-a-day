@@ -71,7 +71,7 @@ Search on Google
 > *1875: William Crookes invented the Crookes tube and studied cathode rays.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1875: William Crookes invented the Crookes tube and studied cathode rays.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1875: William Crookes invented the Crookes tube and studied cathode rays.','_blank')"> 
 Search on Google
 </button>
 

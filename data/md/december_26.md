@@ -71,7 +71,7 @@ Search on Google
 > *2nd century BC: Hipparchos measures the sizes of and distances to the Moon and Sun.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2nd century BC: Hipparchos measures the sizes of and distances to the Moon and Sun.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2nd century BC: Hipparchos measures the sizes of and distances to the Moon and Sun.','_blank')"> 
 Search on Google
 </button>
 

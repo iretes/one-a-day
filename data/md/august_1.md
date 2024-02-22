@@ -71,7 +71,7 @@ Search on Google
 > *2022: The first image from the James Webb Space Telescope is published.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2022: The first image from the James Webb Space Telescope is published.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2022: The first image from the James Webb Space Telescope is published.','_blank')"> 
 Search on Google
 </button>
 

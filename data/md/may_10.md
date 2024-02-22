@@ -71,7 +71,7 @@ Search on Google
 > *1952: Stanley Miller: demonstrated that the building blocks of life could arise from primeval soup in the conditions present during early Earth (Miller-Urey experiment)*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1952: Stanley Miller: demonstrated that the building blocks of life could arise from primeval soup in the conditions present during early Earth (Miller-Urey experiment)','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1952: Stanley Miller: demonstrated that the building blocks of life could arise from primeval soup in the conditions present during early Earth (Miller-Urey experiment)','_blank')"> 
 Search on Google
 </button>
 

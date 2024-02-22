@@ -71,7 +71,7 @@ Search on Google
 > *1517: Nicolaus Copernicus develops the quantity theory of money and states the earliest known form of Gresham's law: ("Bad money drowns out good").*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1517: Nicolaus Copernicus develops the quantity theory of money and states the earliest known form of Gresham s law: ("Bad money drowns out good").','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1517: Nicolaus Copernicus develops the quantity theory of money and states the earliest known form of Gresham s law: (Bad money drowns out good).','_blank')"> 
 Search on Google
 </button>
 

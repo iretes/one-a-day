@@ -71,7 +71,7 @@ Search on Google
 > *1800 BC - 1600 BC: A Babylonian tablet uses 25⁄8 = 3.125 as an approximation for π, which has an error of 0.5%.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1800 BC - 1600 BC: A Babylonian tablet uses 25⁄8 = 3.125 as an approximation for π, which has an error of 0.5%.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1800 BC - 1600 BC: A Babylonian tablet uses 25⁄8 = 3.125 as an approximation for π, which has an error of 0.5%.','_blank')"> 
 Search on Google
 </button>
 

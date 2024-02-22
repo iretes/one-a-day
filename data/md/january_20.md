@@ -71,7 +71,7 @@ Search on Google
 > *1957: Chien Shiung Wu: demonstrated that parity, and thus charge conjugation and time-reversals, are violated for weak interactions*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1957: Chien Shiung Wu: demonstrated that parity, and thus charge conjugation and time-reversals, are violated for weak interactions','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1957: Chien Shiung Wu: demonstrated that parity, and thus charge conjugation and time-reversals, are violated for weak interactions','_blank')"> 
 Search on Google
 </button>
 

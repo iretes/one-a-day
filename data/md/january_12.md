@@ -71,7 +71,7 @@ Search on Google
 > *1550 BC: The Rhind Mathematical Papyrus (a copy of an older Middle Kingdom text) contains the first documented instance of inscribing a polygon (in this case, an octagon) into a circle to estimate the value of π.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1550 BC: The Rhind Mathematical Papyrus (a copy of an older Middle Kingdom text) contains the first documented instance of inscribing a polygon (in this case, an octagon) into a circle to estimate the value of π.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1550 BC: The Rhind Mathematical Papyrus (a copy of an older Middle Kingdom text) contains the first documented instance of inscribing a polygon (in this case, an octagon) into a circle to estimate the value of π.','_blank')"> 
 Search on Google
 </button>
 

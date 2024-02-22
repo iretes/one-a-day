@@ -71,7 +71,7 @@ Search on Google
 > *1830: Nikolai Lobachevsky created Non-Euclidean geometry.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1830: Nikolai Lobachevsky created Non-Euclidean geometry.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1830: Nikolai Lobachevsky created Non-Euclidean geometry.','_blank')"> 
 Search on Google
 </button>
 

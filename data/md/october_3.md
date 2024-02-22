@@ -72,7 +72,7 @@ Search on Google
 > *2nd century: Ptolemy publishes his Optics, discussing colour, reflection, and refraction of light, and including the first known table of refractive angles.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2nd century: Ptolemy publishes his Optics, discussing colour, reflection, and refraction of light, and including the first known table of refractive angles.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2nd century: Ptolemy publishes his Optics, discussing colour, reflection, and refraction of light, and including the first known table of refractive angles.','_blank')"> 
 Search on Google
 </button>
 

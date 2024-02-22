@@ -71,7 +71,7 @@ Search on Google
 > *1938: Isidor Rabi: Nuclear magnetic resonance*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1938: Isidor Rabi: Nuclear magnetic resonance','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1938: Isidor Rabi: Nuclear magnetic resonance','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1619: Johannes Kepler: third law of planetary motion.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1619: Johannes Kepler: third law of planetary motion.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1619: Johannes Kepler: third law of planetary motion.','_blank')"> 
 Search on Google
 </button>
 

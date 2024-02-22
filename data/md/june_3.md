@@ -71,7 +71,7 @@ Search on Google
 > *1897: J.J. Thomson discovers the electron in cathode rays*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1897: J.J. Thomson discovers the electron in cathode rays','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1897: J.J. Thomson discovers the electron in cathode rays','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: The first true formal system is constructed by Pāṇini in his Sanskrit grammar.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: The first true formal system is constructed by Pāṇini in his Sanskrit grammar.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: The first true formal system is constructed by Pāṇini in his Sanskrit grammar.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1873: Johannes Diderik van der Waals: was one of the first to postulate an intermolecular force: the van der Waals force.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1873: Johannes Diderik van der Waals: was one of the first to postulate an intermolecular force: the van der Waals force.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1873: Johannes Diderik van der Waals: was one of the first to postulate an intermolecular force: the van der Waals force.','_blank')"> 
 Search on Google
 </button>
 

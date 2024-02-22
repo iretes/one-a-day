@@ -71,7 +71,7 @@ Search on Google
 > *11th century: Alhazen discovers the formula for the simplicial numbers defined as the sums of consecutive quartic powers.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=11th century: Alhazen discovers the formula for the simplicial numbers defined as the sums of consecutive quartic powers.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=11th century: Alhazen discovers the formula for the simplicial numbers defined as the sums of consecutive quartic powers.','_blank')"> 
 Search on Google
 </button>
 

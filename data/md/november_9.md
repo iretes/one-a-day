@@ -71,7 +71,7 @@ Search on Google
 > *14th century: French priest Jean Buridan provides a basic explanation of the price system.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=14th century: French priest Jean Buridan provides a basic explanation of the price system.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=14th century: French priest Jean Buridan provides a basic explanation of the price system.','_blank')"> 
 Search on Google
 </button>
 

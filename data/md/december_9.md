@@ -71,7 +71,7 @@ Search on Google
 > *1380: The Kerala school develops convergence tests for infinite series.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1380: The Kerala school develops convergence tests for infinite series.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1380: The Kerala school develops convergence tests for infinite series.','_blank')"> 
 Search on Google
 </button>
 

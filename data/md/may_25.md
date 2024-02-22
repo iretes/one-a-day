@@ -71,7 +71,7 @@ Search on Google
 > *1873: Frederick Guthrie discovers thermionic emission.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1873: Frederick Guthrie discovers thermionic emission.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1873: Frederick Guthrie discovers thermionic emission.','_blank')"> 
 Search on Google
 </button>
 

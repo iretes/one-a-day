@@ -71,7 +71,7 @@ Search on Google
 > *1912: Henrietta Swan Leavitt: Cepheid variable period-luminosity relation*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1912: Henrietta Swan Leavitt: Cepheid variable period-luminosity relation','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1912: Henrietta Swan Leavitt: Cepheid variable period-luminosity relation','_blank')"> 
 Search on Google
 </button>
 

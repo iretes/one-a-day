@@ -71,7 +71,7 @@ Search on Google
 > *3rd century: Diophantus uses a primitive form of algebraic symbolism, which is quickly forgotten.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century: Diophantus uses a primitive form of algebraic symbolism, which is quickly forgotten.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century: Diophantus uses a primitive form of algebraic symbolism, which is quickly forgotten.','_blank')"> 
 Search on Google
 </button>
 

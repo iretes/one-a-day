@@ -71,7 +71,7 @@ Search on Google
 > *1675: Leibniz, Newton: infinitesimal calculus.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1675: Leibniz, Newton: infinitesimal calculus.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1675: Leibniz, Newton: infinitesimal calculus.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1545: Gerolamo Cardano discovers complex numbers.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1545: Gerolamo Cardano discovers complex numbers.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1545: Gerolamo Cardano discovers complex numbers.','_blank')"> 
 Search on Google
 </button>
 

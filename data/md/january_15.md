@@ -71,7 +71,7 @@ Search on Google
 > *628: Brahmagupta states the arithmetic rules for addition, subtraction, and multiplication with zero, as well as the multiplication of negative numbers, extending the basic rules for the latter found in the earlier The Nine Chapters on the Mathematical Art.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta states the arithmetic rules for addition, subtraction, and multiplication with zero, as well as the multiplication of negative numbers, extending the basic rules for the latter found in the earlier The Nine Chapters on the Mathematical Art.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta states the arithmetic rules for addition, subtraction, and multiplication with zero, as well as the multiplication of negative numbers, extending the basic rules for the latter found in the earlier The Nine Chapters on the Mathematical Art.','_blank')"> 
 Search on Google
 </button>
 

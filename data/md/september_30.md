@@ -71,7 +71,7 @@ Search on Google
 > *2019: Scientists report, for the first time, the use of the CRISPR technology to edit human genes to treat cancer patients with whom standard treatments were not successful.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2019: Scientists report, for the first time, the use of the CRISPR technology to edit human genes to treat cancer patients with whom standard treatments were not successful.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2019: Scientists report, for the first time, the use of the CRISPR technology to edit human genes to treat cancer patients with whom standard treatments were not successful.','_blank')"> 
 Search on Google
 </button>
 

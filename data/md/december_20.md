@@ -71,7 +71,7 @@ Search on Google
 > *600 BC - 200 BC: The Sushruta Samhita shows an understanding of musculoskeletal structure (including joints, ligaments and muscles and their functions) (3.V). It refers to the cardiovascular system as a closed circuit. In (3.IX) it identifies the existence of nerves.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=600 BC - 200 BC: The Sushruta Samhita shows an understanding of musculoskeletal structure (including joints, ligaments and muscles and their functions) (3.V). It refers to the cardiovascular system as a closed circuit. In (3.IX) it identifies the existence of nerves.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=600 BC - 200 BC: The Sushruta Samhita shows an understanding of musculoskeletal structure (including joints, ligaments and muscles and their functions) (3.V). It refers to the cardiovascular system as a closed circuit. In (3.IX) it identifies the existence of nerves.','_blank')"> 
 Search on Google
 </button>
 

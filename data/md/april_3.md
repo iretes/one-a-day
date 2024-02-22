@@ -71,7 +71,7 @@ Search on Google
 > *200 BC: Apollonius of Perga develops epicycles. While an incorrect model, it was a precursor to the development of Fourier series.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=200 BC: Apollonius of Perga develops epicycles. While an incorrect model, it was a precursor to the development of Fourier series.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=200 BC: Apollonius of Perga develops epicycles. While an incorrect model, it was a precursor to the development of Fourier series.','_blank')"> 
 Search on Google
 </button>
 

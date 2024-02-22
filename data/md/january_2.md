@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Menaechmus develops co-ordinate geometry.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Menaechmus develops co-ordinate geometry.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Menaechmus develops co-ordinate geometry.','_blank')"> 
 Search on Google
 </button>
 

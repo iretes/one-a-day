@@ -71,7 +71,7 @@ Search on Google
 > *1945: Howard Florey Mass production of penicillin*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1945: Howard Florey Mass production of penicillin','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1945: Howard Florey Mass production of penicillin','_blank')"> 
 Search on Google
 </button>
 

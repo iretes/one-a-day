@@ -71,7 +71,7 @@ Search on Google
 > *1967: Vela nuclear test detection satellites discover the first gamma-ray burst*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1967: Vela nuclear test detection satellites discover the first gamma-ray burst','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1967: Vela nuclear test detection satellites discover the first gamma-ray burst','_blank')"> 
 Search on Google
 </button>
 

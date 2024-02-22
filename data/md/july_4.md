@@ -71,7 +71,7 @@ Search on Google
 > *1556: Niccolò Tartaglia introduces parenthesis.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1556: Niccolò Tartaglia introduces parenthesis.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1556: Niccolò Tartaglia introduces parenthesis.','_blank')"> 
 Search on Google
 </button>
 

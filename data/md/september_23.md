@@ -71,7 +71,7 @@ Search on Google
 > *2021: Following the formal releases of three videos of UFOs (also known as UAPs) in 2020, a report on the subject by the United States Intelligence Community would be published on 25 June 2021 with the report concluding that UFOs existed. This would be the first time a government would officially confirm the existence of UFOs, though no conclusion was made on what these phenomena were, extraterrestrial or otherwise.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2021: Following the formal releases of three videos of UFOs (also known as UAPs) in 2020, a report on the subject by the United States Intelligence Community would be published on 25 June 2021 with the report concluding that UFOs existed. This would be the first time a government would officially confirm the existence of UFOs, though no conclusion was made on what these phenomena were, extraterrestrial or otherwise.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2021: Following the formal releases of three videos of UFOs (also known as UAPs) in 2020, a report on the subject by the United States Intelligence Community would be published on 25 June 2021 with the report concluding that UFOs existed. This would be the first time a government would officially confirm the existence of UFOs, though no conclusion was made on what these phenomena were, extraterrestrial or otherwise.','_blank')"> 
 Search on Google
 </button>
 

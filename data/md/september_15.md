@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Around the time of Aristotle, a more empirically founded system of anatomy is established, based on animal dissection. In particular, Praxagoras makes the distinction between arteries and veins.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Around the time of Aristotle, a more empirically founded system of anatomy is established, based on animal dissection. In particular, Praxagoras makes the distinction between arteries and veins.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Around the time of Aristotle, a more empirically founded system of anatomy is established, based on animal dissection. In particular, Praxagoras makes the distinction between arteries and veins.','_blank')"> 
 Search on Google
 </button>
 

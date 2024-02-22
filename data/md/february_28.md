@@ -71,7 +71,7 @@ Search on Google
 > *628: Brahmagupta writes down Brahmagupta's identity, an important lemma in the theory of Pell's equation.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta writes down Brahmagupta s identity, an important lemma in the theory of Pell s equation.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta writes down Brahmagupta s identity, an important lemma in the theory of Pell s equation.','_blank')"> 
 Search on Google
 </button>
 

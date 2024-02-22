@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Archimedes makes use of infinitesimals.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes makes use of infinitesimals.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes makes use of infinitesimals.','_blank')"> 
 Search on Google
 </button>
 

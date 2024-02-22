@@ -71,7 +71,7 @@ Search on Google
 > *1865: Gregor Mendel: Mendel's laws of inheritance, basis for genetics.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1865: Gregor Mendel: Mendel s laws of inheritance, basis for genetics.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1865: Gregor Mendel: Mendel s laws of inheritance, basis for genetics.','_blank')"> 
 Search on Google
 </button>
 

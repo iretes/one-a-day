@@ -71,7 +71,7 @@ Search on Google
 > *1785: William Withering: publishes the first definitive account of the use of foxglove (digitalis) for treating dropsy.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1785: William Withering: publishes the first definitive account of the use of foxglove (digitalis) for treating dropsy.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1785: William Withering: publishes the first definitive account of the use of foxglove (digitalis) for treating dropsy.','_blank')"> 
 Search on Google
 </button>
 

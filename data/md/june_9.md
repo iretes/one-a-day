@@ -71,7 +71,7 @@ Search on Google
 > *2021: On 19 April, the Ingenuity helicopter drone performed the first powered controlled flight by an aircraft on a planet other than Earth.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2021: On 19 April, the Ingenuity helicopter drone performed the first powered controlled flight by an aircraft on a planet other than Earth.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2021: On 19 April, the Ingenuity helicopter drone performed the first powered controlled flight by an aircraft on a planet other than Earth.','_blank')"> 
 Search on Google
 </button>
 

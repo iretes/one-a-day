@@ -71,7 +71,7 @@ Search on Google
 > *2100 BC: Quadratic equations, in the form of problems relating the areas and sides of rectangles, are solved by Babylonians.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2100 BC: Quadratic equations, in the form of problems relating the areas and sides of rectangles, are solved by Babylonians.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2100 BC: Quadratic equations, in the form of problems relating the areas and sides of rectangles, are solved by Babylonians.','_blank')"> 
 Search on Google
 </button>
 

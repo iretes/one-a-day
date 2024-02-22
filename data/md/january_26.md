@@ -71,7 +71,7 @@ Search on Google
 > *1963: Lawrence Morley, Fred Vine, and Drummond Matthews: Paleomagnetic stripes in ocean crust as evidence of plate tectonics (Vine–Matthews–Morley hypothesis).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1963: Lawrence Morley, Fred Vine, and Drummond Matthews: Paleomagnetic stripes in ocean crust as evidence of plate tectonics (Vine–Matthews–Morley hypothesis).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1963: Lawrence Morley, Fred Vine, and Drummond Matthews: Paleomagnetic stripes in ocean crust as evidence of plate tectonics (Vine–Matthews–Morley hypothesis).','_blank')"> 
 Search on Google
 </button>
 

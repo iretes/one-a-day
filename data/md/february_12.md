@@ -71,7 +71,7 @@ Search on Google
 > *3000 BC: Units of measurement are developed in the Americas as well as the major Bronze Age civilizations: Egypt, Mesopotamia, Elam and the Indus Valley.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3000 BC: Units of measurement are developed in the Americas as well as the major Bronze Age civilizations: Egypt, Mesopotamia, Elam and the Indus Valley.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3000 BC: Units of measurement are developed in the Americas as well as the major Bronze Age civilizations: Egypt, Mesopotamia, Elam and the Indus Valley.','_blank')"> 
 Search on Google
 </button>
 

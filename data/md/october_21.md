@@ -71,7 +71,7 @@ Search on Google
 > *1735: Carl Linnaeus described a new system for classifying plants in Systema Naturae.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1735: Carl Linnaeus described a new system for classifying plants in Systema Naturae.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1735: Carl Linnaeus described a new system for classifying plants in Systema Naturae.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1557: Robert Recorde introduces the equal sign.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1557: Robert Recorde introduces the equal sign.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1557: Robert Recorde introduces the equal sign.','_blank')"> 
 Search on Google
 </button>
 

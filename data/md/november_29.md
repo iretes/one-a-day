@@ -71,7 +71,7 @@ Search on Google
 > *1828: Friedrich Wöhler synthesized urea, refuting vitalism.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1828: Friedrich Wöhler synthesized urea, refuting vitalism.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1828: Friedrich Wöhler synthesized urea, refuting vitalism.','_blank')"> 
 Search on Google
 </button>
 

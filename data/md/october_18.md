@@ -71,7 +71,7 @@ Search on Google
 > *1781: William Herschel announces discovery of Uranus, expanding the known boundaries of the Solar System for the first time in modern history.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1781: William Herschel announces discovery of Uranus, expanding the known boundaries of the Solar System for the first time in modern history.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1781: William Herschel announces discovery of Uranus, expanding the known boundaries of the Solar System for the first time in modern history.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Eudoxus of Cnidus states the Archimedean property.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Eudoxus of Cnidus states the Archimedean property.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Eudoxus of Cnidus states the Archimedean property.','_blank')"> 
 Search on Google
 </button>
 

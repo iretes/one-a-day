@@ -71,7 +71,7 @@ Search on Google
 > *1998: Supernova Cosmology Project and the High-Z Supernova Search Team: discovery of the accelerated expansion of the Universe and dark energy*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1998: Supernova Cosmology Project and the High-Z Supernova Search Team: discovery of the accelerated expansion of the Universe and dark energy','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1998: Supernova Cosmology Project and the High-Z Supernova Search Team: discovery of the accelerated expansion of the Universe and dark energy','_blank')"> 
 Search on Google
 </button>
 

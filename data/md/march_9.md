@@ -71,7 +71,7 @@ Search on Google
 > *4th to 5th centuries: The modern fundamental trigonometric functions, sine and cosine, are described in the Siddhantas of India. This formulation of trigonometry is an improvement over the earlier Greek functions, in that it lends itself more seamlessly to polar co-ordinates and the later complex interpretation of the trigonometric functions.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th to 5th centuries: The modern fundamental trigonometric functions, sine and cosine, are described in the Siddhantas of India. This formulation of trigonometry is an improvement over the earlier Greek functions, in that it lends itself more seamlessly to polar co-ordinates and the later complex interpretation of the trigonometric functions.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th to 5th centuries: The modern fundamental trigonometric functions, sine and cosine, are described in the Siddhantas of India. This formulation of trigonometry is an improvement over the earlier Greek functions, in that it lends itself more seamlessly to polar co-ordinates and the later complex interpretation of the trigonometric functions.','_blank')"> 
 Search on Google
 </button>
 

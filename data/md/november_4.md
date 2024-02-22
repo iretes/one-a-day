@@ -71,7 +71,7 @@ Search on Google
 > *4th - 3rd century BC: In Mauryan India, The Jain mathematical text Surya Prajnapati draws a distinction between countable and uncountable infinities.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th - 3rd century BC: In Mauryan India, The Jain mathematical text Surya Prajnapati draws a distinction between countable and uncountable infinities.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th - 3rd century BC: In Mauryan India, The Jain mathematical text Surya Prajnapati draws a distinction between countable and uncountable infinities.','_blank')"> 
 Search on Google
 </button>
 

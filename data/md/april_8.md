@@ -71,7 +71,7 @@ Search on Google
 > *1909: Robert Andrews Millikan: conducts the oil drop experiment and determines the charge on an electron*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1909: Robert Andrews Millikan: conducts the oil drop experiment and determines the charge on an electron','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1909: Robert Andrews Millikan: conducts the oil drop experiment and determines the charge on an electron','_blank')"> 
 Search on Google
 </button>
 

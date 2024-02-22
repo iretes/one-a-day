@@ -71,7 +71,7 @@ Search on Google
 > *1898: Martinus Beijerinck: concluded that a virus is infectious—replicating in the host—and thus not a mere toxin, and gave it the name "virus"*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1898: Martinus Beijerinck: concluded that a virus is infectious—replicating in the host—and thus not a mere toxin, and gave it the name "virus"','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1898: Martinus Beijerinck: concluded that a virus is infectious—replicating in the host—and thus not a mere toxin, and gave it the name virus','_blank')"> 
 Search on Google
 </button>
 

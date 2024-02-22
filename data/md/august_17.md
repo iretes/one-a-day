@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Archimedes relates problems in geometric series to those in arithmetic series, foreshadowing the logarithm.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes relates problems in geometric series to those in arithmetic series, foreshadowing the logarithm.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes relates problems in geometric series to those in arithmetic series, foreshadowing the logarithm.','_blank')"> 
 Search on Google
 </button>
 

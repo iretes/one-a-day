@@ -71,7 +71,7 @@ Search on Google
 > *1837: Charles Babbage proposes a design for the construction of a Turing complete, general purpose Computer, to be called the Analytical Engine.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1837: Charles Babbage proposes a design for the construction of a Turing complete, general purpose Computer, to be called the Analytical Engine.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1837: Charles Babbage proposes a design for the construction of a Turing complete, general purpose Computer, to be called the Analytical Engine.','_blank')"> 
 Search on Google
 </button>
 

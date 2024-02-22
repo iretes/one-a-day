@@ -71,7 +71,7 @@ Search on Google
 > *1820: Hans Christian Ørsted discovers that a current passed through a wire will deflect the needle of a compass, establishing the deep relationship between electricity and magnetism (electromagnetism)..*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1820: Hans Christian Ørsted discovers that a current passed through a wire will deflect the needle of a compass, establishing the deep relationship between electricity and magnetism (electromagnetism)..','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1820: Hans Christian Ørsted discovers that a current passed through a wire will deflect the needle of a compass, establishing the deep relationship between electricity and magnetism (electromagnetism)..','_blank')"> 
 Search on Google
 </button>
 

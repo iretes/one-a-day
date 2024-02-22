@@ -71,7 +71,7 @@ Search on Google
 > *1751: Benjamin Franklin: lightning is electrical.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1751: Benjamin Franklin: lightning is electrical.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1751: Benjamin Franklin: lightning is electrical.','_blank')"> 
 Search on Google
 </button>
 

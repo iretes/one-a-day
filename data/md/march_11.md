@@ -71,7 +71,7 @@ Search on Google
 > *1749 – 1789: Buffon wrote Histoire naturelle.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1749 – 1789: Buffon wrote Histoire naturelle.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1749 – 1789: Buffon wrote Histoire naturelle.','_blank')"> 
 Search on Google
 </button>
 

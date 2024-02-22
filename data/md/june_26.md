@@ -71,7 +71,7 @@ Search on Google
 > *1861: John Tyndall: Experiments in Radiant Energy that reinforced the Greenhouse effect.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1861: John Tyndall: Experiments in Radiant Energy that reinforced the Greenhouse effect.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1861: John Tyndall: Experiments in Radiant Energy that reinforced the Greenhouse effect.','_blank')"> 
 Search on Google
 </button>
 

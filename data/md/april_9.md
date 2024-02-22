@@ -71,7 +71,7 @@ Search on Google
 > *1907: Alfred Bertheim: Arsphenamine, the first modern chemotherapeutic agent*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1907: Alfred Bertheim: Arsphenamine, the first modern chemotherapeutic agent','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1907: Alfred Bertheim: Arsphenamine, the first modern chemotherapeutic agent','_blank')"> 
 Search on Google
 </button>
 

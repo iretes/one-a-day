@@ -71,7 +71,7 @@ Search on Google
 > *1912: Vesto Slipher: galactic redshifts*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1912: Vesto Slipher: galactic redshifts','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1912: Vesto Slipher: galactic redshifts','_blank')"> 
 Search on Google
 </button>
 

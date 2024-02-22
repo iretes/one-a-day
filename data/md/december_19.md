@@ -71,7 +71,7 @@ Search on Google
 > *2020: 3D printing had reached decent quality and affordable pricing which allowed many people to own 3D printers.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: 3D printing had reached decent quality and affordable pricing which allowed many people to own 3D printers.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: 3D printing had reached decent quality and affordable pricing which allowed many people to own 3D printers.','_blank')"> 
 Search on Google
 </button>
 

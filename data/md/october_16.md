@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Eratosthenes discovers the Sieve of Eratosthenes.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Eratosthenes discovers the Sieve of Eratosthenes.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Eratosthenes discovers the Sieve of Eratosthenes.','_blank')"> 
 Search on Google
 </button>
 

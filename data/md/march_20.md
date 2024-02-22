@@ -71,7 +71,7 @@ Search on Google
 > *1951: George Otto Gey propagates first cancer cell line, HeLa*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1951: George Otto Gey propagates first cancer cell line, HeLa','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1951: George Otto Gey propagates first cancer cell line, HeLa','_blank')"> 
 Search on Google
 </button>
 

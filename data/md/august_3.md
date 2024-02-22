@@ -71,7 +71,7 @@ Search on Google
 > *700 BC: Pell's equations are first studied by Baudhayana in India, the first diophantine equations known to be studied.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=700 BC: Pell s equations are first studied by Baudhayana in India, the first diophantine equations known to be studied.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=700 BC: Pell s equations are first studied by Baudhayana in India, the first diophantine equations known to be studied.','_blank')"> 
 Search on Google
 </button>
 

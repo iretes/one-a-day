@@ -71,7 +71,7 @@ Search on Google
 > *1915: Albert Einstein: theory of general relativity – also David Hilbert*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1915: Albert Einstein: theory of general relativity – also David Hilbert','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1915: Albert Einstein: theory of general relativity – also David Hilbert','_blank')"> 
 Search on Google
 </button>
 

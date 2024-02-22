@@ -71,7 +71,7 @@ Search on Google
 > *1827: Georg Ohm: Ohm's law (Electricity).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1827: Georg Ohm: Ohm s law (Electricity).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1827: Georg Ohm: Ohm s law (Electricity).','_blank')"> 
 Search on Google
 </button>
 

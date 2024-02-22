@@ -71,7 +71,7 @@ Search on Google
 > *210: Negative numbers are accepted as numeric by the late Han-era Chinese text The Nine Chapters on the Mathematical Art. Later, Liu Hui of Cao Wei (during the Three Kingdoms period) writes down laws regarding the arithmetic of negative numbers.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=210: Negative numbers are accepted as numeric by the late Han-era Chinese text The Nine Chapters on the Mathematical Art. Later, Liu Hui of Cao Wei (during the Three Kingdoms period) writes down laws regarding the arithmetic of negative numbers.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=210: Negative numbers are accepted as numeric by the late Han-era Chinese text The Nine Chapters on the Mathematical Art. Later, Liu Hui of Cao Wei (during the Three Kingdoms period) writes down laws regarding the arithmetic of negative numbers.','_blank')"> 
 Search on Google
 </button>
 

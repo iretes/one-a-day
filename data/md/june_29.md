@@ -71,7 +71,7 @@ Search on Google
 > *1000: Al-Karaji uses mathematical induction.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1000: Al-Karaji uses mathematical induction.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1000: Al-Karaji uses mathematical induction.','_blank')"> 
 Search on Google
 </button>
 

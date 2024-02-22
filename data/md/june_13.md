@@ -71,7 +71,7 @@ Search on Google
 > *1988: Bart van Wees and colleagues at TU Deflt and Philips Research discovered the quantized conductance in a two-dimensional electron gas.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1988: Bart van Wees and colleagues at TU Deflt and Philips Research discovered the quantized conductance in a two-dimensional electron gas.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1988: Bart van Wees and colleagues at TU Deflt and Philips Research discovered the quantized conductance in a two-dimensional electron gas.','_blank')"> 
 Search on Google
 </button>
 

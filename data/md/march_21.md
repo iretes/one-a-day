@@ -71,7 +71,7 @@ Search on Google
 > *1986: Karl Müller and Johannes Bednorz: Discovery of High-temperature superconductivity*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1986: Karl Müller and Johannes Bednorz: Discovery of High-temperature superconductivity','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1986: Karl Müller and Johannes Bednorz: Discovery of High-temperature superconductivity','_blank')"> 
 Search on Google
 </button>
 

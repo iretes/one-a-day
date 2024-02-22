@@ -71,7 +71,7 @@ Search on Google
 > *300 BC: Euclid proves the infinitude of primes.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid proves the infinitude of primes.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid proves the infinitude of primes.','_blank')"> 
 Search on Google
 </button>
 

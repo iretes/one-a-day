@@ -71,7 +71,7 @@ Search on Google
 > *1665: Philosophical Transactions of the Royal Society: first peer reviewed scientific journal published.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1665: Philosophical Transactions of the Royal Society: first peer reviewed scientific journal published.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1665: Philosophical Transactions of the Royal Society: first peer reviewed scientific journal published.','_blank')"> 
 Search on Google
 </button>
 

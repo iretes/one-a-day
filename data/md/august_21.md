@@ -71,7 +71,7 @@ Search on Google
 > *850: Mahāvīra derives the expression for the binomial coefficient in terms of factorials.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=850: Mahāvīra derives the expression for the binomial coefficient in terms of factorials.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=850: Mahāvīra derives the expression for the binomial coefficient in terms of factorials.','_blank')"> 
 Search on Google
 </button>
 

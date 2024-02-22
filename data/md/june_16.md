@@ -71,7 +71,7 @@ Search on Google
 > *2012: Photonic molecules are discovered at MIT*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2012: Photonic molecules are discovered at MIT','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2012: Photonic molecules are discovered at MIT','_blank')"> 
 Search on Google
 </button>
 

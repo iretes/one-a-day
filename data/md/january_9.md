@@ -71,7 +71,7 @@ Search on Google
 > *1927: Georges Lemaître: Theory of the Big Bang*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1927: Georges Lemaître: Theory of the Big Bang','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1927: Georges Lemaître: Theory of the Big Bang','_blank')"> 
 Search on Google
 </button>
 

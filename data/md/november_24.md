@@ -71,7 +71,7 @@ Search on Google
 > *2020: DeepMind solves the protein folding problem to 90 percent accuracy, a 50-year-old grand challenge, at CASP14.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: DeepMind solves the protein folding problem to 90 percent accuracy, a 50-year-old grand challenge, at CASP14.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: DeepMind solves the protein folding problem to 90 percent accuracy, a 50-year-old grand challenge, at CASP14.','_blank')"> 
 Search on Google
 </button>
 

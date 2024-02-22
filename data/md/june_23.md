@@ -71,7 +71,7 @@ Search on Google
 > *1952: Jonas Salk: developed and tested first polio vaccine*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1952: Jonas Salk: developed and tested first polio vaccine','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1952: Jonas Salk: developed and tested first polio vaccine','_blank')"> 
 Search on Google
 </button>
 

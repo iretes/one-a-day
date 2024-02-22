@@ -71,7 +71,7 @@ Search on Google
 > *1952: Frederick Sanger: demonstrated that proteins are sequences of amino acids*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1952: Frederick Sanger: demonstrated that proteins are sequences of amino acids','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1952: Frederick Sanger: demonstrated that proteins are sequences of amino acids','_blank')"> 
 Search on Google
 </button>
 

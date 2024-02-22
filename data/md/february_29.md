@@ -71,7 +71,7 @@ Search on Google
 > *1800 BC: The Middle Kingdom of Egypt develops Egyptian fraction notation.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1800 BC: The Middle Kingdom of Egypt develops Egyptian fraction notation.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1800 BC: The Middle Kingdom of Egypt develops Egyptian fraction notation.','_blank')"> 
 Search on Google
 </button>
 

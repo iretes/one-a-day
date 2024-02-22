@@ -71,7 +71,7 @@ Search on Google
 > *1943: Oswald Avery proves that DNA is the genetic material of the chromosome*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1943: Oswald Avery proves that DNA is the genetic material of the chromosome','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1943: Oswald Avery proves that DNA is the genetic material of the chromosome','_blank')"> 
 Search on Google
 </button>
 

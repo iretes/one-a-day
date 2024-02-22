@@ -71,7 +71,7 @@ Search on Google
 > *15th century: Parameshvara discovers a formula for the circumradius of a quadrilateral.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=15th century: Parameshvara discovers a formula for the circumradius of a quadrilateral.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=15th century: Parameshvara discovers a formula for the circumradius of a quadrilateral.','_blank')"> 
 Search on Google
 </button>
 

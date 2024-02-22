@@ -71,7 +71,7 @@ Search on Google
 > *1980: Klaus von Klitzing discovered the quantum Hall effect*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1980: Klaus von Klitzing discovered the quantum Hall effect','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1980: Klaus von Klitzing discovered the quantum Hall effect','_blank')"> 
 Search on Google
 </button>
 

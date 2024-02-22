@@ -71,7 +71,7 @@ Search on Google
 > *2021: NASA's Perseverance rover, carrying the Ingenuity helicopter, successfully lands on Mars.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2021: NASA s Perseverance rover, carrying the Ingenuity helicopter, successfully lands on Mars.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2021: NASA s Perseverance rover, carrying the Ingenuity helicopter, successfully lands on Mars.','_blank')"> 
 Search on Google
 </button>
 

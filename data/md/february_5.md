@@ -71,7 +71,7 @@ Search on Google
 > *1831: Michael Faraday discovers electromagnetic induction.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1831: Michael Faraday discovers electromagnetic induction.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1831: Michael Faraday discovers electromagnetic induction.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1864: James Clerk Maxwell: Theory of electromagnetism.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1864: James Clerk Maxwell: Theory of electromagnetism.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1864: James Clerk Maxwell: Theory of electromagnetism.','_blank')"> 
 Search on Google
 </button>
 

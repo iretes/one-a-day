@@ -71,7 +71,7 @@ Search on Google
 > *2023: On 19 August, Luna 25, Russia's first lunar spacecraft since the dissolution of the Soviet Union, crashes into the lunar south pole after a failed orbital maneuver.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2023: On 19 August, Luna 25, Russia s first lunar spacecraft since the dissolution of the Soviet Union, crashes into the lunar south pole after a failed orbital maneuver.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2023: On 19 August, Luna 25, Russia s first lunar spacecraft since the dissolution of the Soviet Union, crashes into the lunar south pole after a failed orbital maneuver.','_blank')"> 
 Search on Google
 </button>
 

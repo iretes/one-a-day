@@ -71,7 +71,7 @@ Search on Google
 > *9th century: Jain mathematician Mahāvīra writes down a factorisation for the difference of cubes.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=9th century: Jain mathematician Mahāvīra writes down a factorisation for the difference of cubes.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=9th century: Jain mathematician Mahāvīra writes down a factorisation for the difference of cubes.','_blank')"> 
 Search on Google
 </button>
 

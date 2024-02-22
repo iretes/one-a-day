@@ -71,7 +71,7 @@ Search on Google
 > *1924: Edwin Hubble: the discovery that the Milky Way is just one of many galaxies*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1924: Edwin Hubble: the discovery that the Milky Way is just one of many galaxies','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1924: Edwin Hubble: the discovery that the Milky Way is just one of many galaxies','_blank')"> 
 Search on Google
 </button>
 

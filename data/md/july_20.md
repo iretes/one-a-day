@@ -71,7 +71,7 @@ Search on Google
 > *499: Aryabhata develops an algorithm to solve the Chinese remainder theorem.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Aryabhata develops an algorithm to solve the Chinese remainder theorem.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Aryabhata develops an algorithm to solve the Chinese remainder theorem.','_blank')"> 
 Search on Google
 </button>
 

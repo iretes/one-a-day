@@ -71,7 +71,7 @@ Search on Google
 > *Late 16th century: Tycho Brahe proves that comets are astronomical (and not atmospheric) phenomena.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=Late 16th century: Tycho Brahe proves that comets are astronomical (and not atmospheric) phenomena.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=Late 16th century: Tycho Brahe proves that comets are astronomical (and not atmospheric) phenomena.','_blank')"> 
 Search on Google
 </button>
 

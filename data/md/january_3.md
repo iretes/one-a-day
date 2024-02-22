@@ -71,7 +71,7 @@ Search on Google
 > *1915: Karl Schwarzschild: discovery of the Schwarzschild radius leading to the identification of black holes*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1915: Karl Schwarzschild: discovery of the Schwarzschild radius leading to the identification of black holes','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1915: Karl Schwarzschild: discovery of the Schwarzschild radius leading to the identification of black holes','_blank')"> 
 Search on Google
 </button>
 

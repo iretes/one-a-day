@@ -71,7 +71,7 @@ Search on Google
 > *1609: Johannes Kepler: first two laws of planetary motion.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1609: Johannes Kepler: first two laws of planetary motion.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1609: Johannes Kepler: first two laws of planetary motion.','_blank')"> 
 Search on Google
 </button>
 

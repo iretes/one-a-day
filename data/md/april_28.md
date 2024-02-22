@@ -71,7 +71,7 @@ Search on Google
 > *628: Brahmagupta discovers Brahmagupta's formula, a generalization of Heron's formula to cyclic quadrilaterals.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta discovers Brahmagupta s formula, a generalization of Heron s formula to cyclic quadrilaterals.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta discovers Brahmagupta s formula, a generalization of Heron s formula to cyclic quadrilaterals.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1884: Jacobus Henricus van 't Hoff: discovered the laws of chemical dynamics and osmotic pressure in solutions (in his work "Études de dynamique chimique").*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1884: Jacobus Henricus van  t Hoff: discovered the laws of chemical dynamics and osmotic pressure in solutions (in his work "Études de dynamique chimique").','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1884: Jacobus Henricus van  t Hoff: discovered the laws of chemical dynamics and osmotic pressure in solutions (in his work Études de dynamique chimique).','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Greek philosophers study the properties of logical negation.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Greek philosophers study the properties of logical negation.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Greek philosophers study the properties of logical negation.','_blank')"> 
 Search on Google
 </button>
 

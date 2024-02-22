@@ -71,7 +71,7 @@ Search on Google
 > *2023: On 18 July, Voyager 2 overtook Pioneer 10 as the second farthest spacecraft from the Sun at the distance 133.92 AU (nearly 12,45 billion miles) from the Sun.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2023: On 18 July, Voyager 2 overtook Pioneer 10 as the second farthest spacecraft from the Sun at the distance 133.92 AU (nearly 12,45 billion miles) from the Sun.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2023: On 18 July, Voyager 2 overtook Pioneer 10 as the second farthest spacecraft from the Sun at the distance 133.92 AU (nearly 12,45 billion miles) from the Sun.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1924: Wolfgang Pauli: quantum Pauli exclusion principle*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1924: Wolfgang Pauli: quantum Pauli exclusion principle','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1924: Wolfgang Pauli: quantum Pauli exclusion principle','_blank')"> 
 Search on Google
 </button>
 

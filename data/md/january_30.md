@@ -71,7 +71,7 @@ Search on Google
 > *1675: Anton van Leeuwenhoek: observes microorganisms using a refined simple microscope.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1675: Anton van Leeuwenhoek: observes microorganisms using a refined simple microscope.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1675: Anton van Leeuwenhoek: observes microorganisms using a refined simple microscope.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1676: Ole Rømer: first measurement of the speed of light.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1676: Ole Rømer: first measurement of the speed of light.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1676: Ole Rømer: first measurement of the speed of light.','_blank')"> 
 Search on Google
 </button>
 

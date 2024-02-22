@@ -71,7 +71,7 @@ Search on Google
 > *2023: On 9 December, Halley's Comet reached the farthest and slowest point in its orbit from the Sun when it was traveling at 0.91 km/s (2,000 mph) with respect to the Sun.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2023: On 9 December, Halley s Comet reached the farthest and slowest point in its orbit from the Sun when it was traveling at 0.91 km/s (2,000 mph) with respect to the Sun.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2023: On 9 December, Halley s Comet reached the farthest and slowest point in its orbit from the Sun when it was traveling at 0.91 km/s (2,000 mph) with respect to the Sun.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1643: Evangelista Torricelli invents the mercury barometer.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1643: Evangelista Torricelli invents the mercury barometer.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1643: Evangelista Torricelli invents the mercury barometer.','_blank')"> 
 Search on Google
 </button>
 

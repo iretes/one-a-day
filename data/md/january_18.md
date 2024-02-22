@@ -71,7 +71,7 @@ Search on Google
 > *300 BC: Euclid's Optics introduces the field of geometric optics, making basic considerations on the sizes of images.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid s Optics introduces the field of geometric optics, making basic considerations on the sizes of images.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid s Optics introduces the field of geometric optics, making basic considerations on the sizes of images.','_blank')"> 
 Search on Google
 </button>
 

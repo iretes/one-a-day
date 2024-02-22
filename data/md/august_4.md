@@ -71,7 +71,7 @@ Search on Google
 > *2020: NASA launched the Perseverance rover and Ingenuity helicopter drone on 30 July 2020 as part of their Mars 2020 mission to search for signs of ancient life on Mars.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: NASA launched the Perseverance rover and Ingenuity helicopter drone on 30 July 2020 as part of their Mars 2020 mission to search for signs of ancient life on Mars.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: NASA launched the Perseverance rover and Ingenuity helicopter drone on 30 July 2020 as part of their Mars 2020 mission to search for signs of ancient life on Mars.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *628: Brahmagupta invents a symbolic mathematical notation, which is then adopted by mathematicians through India and the Near East, and eventually Europe.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta invents a symbolic mathematical notation, which is then adopted by mathematicians through India and the Near East, and eventually Europe.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=628: Brahmagupta invents a symbolic mathematical notation, which is then adopted by mathematicians through India and the Near East, and eventually Europe.','_blank')"> 
 Search on Google
 </button>
 

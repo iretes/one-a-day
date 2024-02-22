@@ -71,7 +71,7 @@ Search on Google
 > *1898: Marie Curie discovered radium and polonium*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1898: Marie Curie discovered radium and polonium','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1898: Marie Curie discovered radium and polonium','_blank')"> 
 Search on Google
 </button>
 

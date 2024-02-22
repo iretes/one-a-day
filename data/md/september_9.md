@@ -71,7 +71,7 @@ Search on Google
 > *1543: Nicolaus Copernicus develops a heliocentric model, rejecting Aristotle's Earth-centric view, would be the first quantitative heliocentric model in history.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1543: Nicolaus Copernicus develops a heliocentric model, rejecting Aristotle s Earth-centric view, would be the first quantitative heliocentric model in history.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1543: Nicolaus Copernicus develops a heliocentric model, rejecting Aristotle s Earth-centric view, would be the first quantitative heliocentric model in history.','_blank')"> 
 Search on Google
 </button>
 

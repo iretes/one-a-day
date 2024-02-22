@@ -71,7 +71,7 @@ Search on Google
 > *2000 BC: Pythagorean triples are first discussed in Babylon and Egypt, and appear on later manuscripts such as the Berlin Papyrus 6619.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2000 BC: Pythagorean triples are first discussed in Babylon and Egypt, and appear on later manuscripts such as the Berlin Papyrus 6619.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2000 BC: Pythagorean triples are first discussed in Babylon and Egypt, and appear on later manuscripts such as the Berlin Papyrus 6619.','_blank')"> 
 Search on Google
 </button>
 

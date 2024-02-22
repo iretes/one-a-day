@@ -71,7 +71,7 @@ Search on Google
 > *1865: Rudolf Clausius: Definition of entropy.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1865: Rudolf Clausius: Definition of entropy.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1865: Rudolf Clausius: Definition of entropy.','_blank')"> 
 Search on Google
 </button>
 

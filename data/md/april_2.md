@@ -71,7 +71,7 @@ Search on Google
 > *1913: Niels Bohr: Model of the atom*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1913: Niels Bohr: Model of the atom','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1913: Niels Bohr: Model of the atom','_blank')"> 
 Search on Google
 </button>
 

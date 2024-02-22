@@ -71,7 +71,7 @@ Search on Google
 > *1953: James Watson, Francis Crick, Maurice Wilkins and Rosalind Franklin: helical structure of DNA, basis for molecular biology*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1953: James Watson, Francis Crick, Maurice Wilkins and Rosalind Franklin: helical structure of DNA, basis for molecular biology','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1953: James Watson, Francis Crick, Maurice Wilkins and Rosalind Franklin: helical structure of DNA, basis for molecular biology','_blank')"> 
 Search on Google
 </button>
 

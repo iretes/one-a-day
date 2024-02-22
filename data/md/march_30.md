@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Menaechmus discovers conic sections.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Menaechmus discovers conic sections.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Menaechmus discovers conic sections.','_blank')"> 
 Search on Google
 </button>
 

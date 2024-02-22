@@ -71,7 +71,7 @@ Search on Google
 > *12th century: Al-Tusi develops a numerical algorithm to solve cubic equations.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=12th century: Al-Tusi develops a numerical algorithm to solve cubic equations.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=12th century: Al-Tusi develops a numerical algorithm to solve cubic equations.','_blank')"> 
 Search on Google
 </button>
 

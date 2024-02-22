@@ -71,7 +71,7 @@ Search on Google
 > *1948: Richard Feynman, Julian Schwinger, Sin-Itiro Tomonaga and Freeman Dyson: Quantum electrodynamics*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1948: Richard Feynman, Julian Schwinger, Sin-Itiro Tomonaga and Freeman Dyson: Quantum electrodynamics','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1948: Richard Feynman, Julian Schwinger, Sin-Itiro Tomonaga and Freeman Dyson: Quantum electrodynamics','_blank')"> 
 Search on Google
 </button>
 

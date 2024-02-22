@@ -71,7 +71,7 @@ Search on Google
 > *1591: François Viète's New algebra shows the modern notational algebraic manipulation.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1591: François Viète s New algebra shows the modern notational algebraic manipulation.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1591: François Viète s New algebra shows the modern notational algebraic manipulation.','_blank')"> 
 Search on Google
 </button>
 

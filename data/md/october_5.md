@@ -71,7 +71,7 @@ Search on Google
 > *1669: Jan Swammerdam: epigenesis in insects.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1669: Jan Swammerdam: epigenesis in insects.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1669: Jan Swammerdam: epigenesis in insects.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *600 BC: Thales of Miletus discovers Thales's theorem.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=600 BC: Thales of Miletus discovers Thales s theorem.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=600 BC: Thales of Miletus discovers Thales s theorem.','_blank')"> 
 Search on Google
 </button>
 

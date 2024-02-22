@@ -71,7 +71,7 @@ Search on Google
 > *1964: Murray Gell-Mann and George Zweig: postulates quarks, leading to the standard model*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1964: Murray Gell-Mann and George Zweig: postulates quarks, leading to the standard model','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1964: Murray Gell-Mann and George Zweig: postulates quarks, leading to the standard model','_blank')"> 
 Search on Google
 </button>
 

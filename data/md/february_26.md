@@ -71,7 +71,7 @@ Search on Google
 > *190 BC: Magic squares appear in China. The theory of magic squares can be considered the first example of a vector space.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=190 BC: Magic squares appear in China. The theory of magic squares can be considered the first example of a vector space.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=190 BC: Magic squares appear in China. The theory of magic squares can be considered the first example of a vector space.','_blank')"> 
 Search on Google
 </button>
 

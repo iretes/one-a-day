@@ -71,7 +71,7 @@ Search on Google
 > *1947: William Shockley, John Bardeen and Walter Brattain invent the first transistor*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1947: William Shockley, John Bardeen and Walter Brattain invent the first transistor','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1947: William Shockley, John Bardeen and Walter Brattain invent the first transistor','_blank')"> 
 Search on Google
 </button>
 

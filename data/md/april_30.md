@@ -71,7 +71,7 @@ Search on Google
 > *2003: Grigori Perelman presents proof of the Poincaré Conjecture.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2003: Grigori Perelman presents proof of the Poincaré Conjecture.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2003: Grigori Perelman presents proof of the Poincaré Conjecture.','_blank')"> 
 Search on Google
 </button>
 

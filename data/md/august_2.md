@@ -71,7 +71,7 @@ Search on Google
 > *1480: Madhava of Sangamagrama found pi and that it was infinite.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1480: Madhava of Sangamagrama found pi and that it was infinite.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1480: Madhava of Sangamagrama found pi and that it was infinite.','_blank')"> 
 Search on Google
 </button>
 

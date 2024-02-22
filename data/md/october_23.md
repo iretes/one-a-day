@@ -71,7 +71,7 @@ Search on Google
 > *1970: James H. Ellis proposed the possibility of "non-secret encryption", more commonly termed public-key cryptography, a concept that would be implemented by his GCHQ colleague Clifford Cocks in 1973, in what would become known as the RSA algorithm, with key exchange added by a third colleague Malcolm J. Williamson, in 1975.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1970: James H. Ellis proposed the possibility of "non-secret encryption", more commonly termed public-key cryptography, a concept that would be implemented by his GCHQ colleague Clifford Cocks in 1973, in what would become known as the RSA algorithm, with key exchange added by a third colleague Malcolm J. Williamson, in 1975.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1970: James H. Ellis proposed the possibility of non-secret encryption, more commonly termed public-key cryptography, a concept that would be implemented by his GCHQ colleague Clifford Cocks in 1973, in what would become known as the RSA algorithm, with key exchange added by a third colleague Malcolm J. Williamson, in 1975.','_blank')"> 
 Search on Google
 </button>
 

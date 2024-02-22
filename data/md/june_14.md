@@ -71,7 +71,7 @@ Search on Google
 > *499: Aryabhata describes a numerical algorithm for finding cube roots.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Aryabhata describes a numerical algorithm for finding cube roots.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Aryabhata describes a numerical algorithm for finding cube roots.','_blank')"> 
 Search on Google
 </button>
 

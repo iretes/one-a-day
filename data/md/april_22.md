@@ -71,7 +71,7 @@ Search on Google
 > *2004: Andre Geim and Konstantin Novoselov isolated graphene, a monolayer of carbon atoms, and studied its quantum electrical properties.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2004: Andre Geim and Konstantin Novoselov isolated graphene, a monolayer of carbon atoms, and studied its quantum electrical properties.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2004: Andre Geim and Konstantin Novoselov isolated graphene, a monolayer of carbon atoms, and studied its quantum electrical properties.','_blank')"> 
 Search on Google
 </button>
 

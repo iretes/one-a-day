@@ -71,7 +71,7 @@ Search on Google
 > *2022: On 13 December, the US Department of Energy announces that scientists at the National Ignition Facility have achieved the first positive energy gain from a fusion reactor in history.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2022: On 13 December, the US Department of Energy announces that scientists at the National Ignition Facility have achieved the first positive energy gain from a fusion reactor in history.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2022: On 13 December, the US Department of Energy announces that scientists at the National Ignition Facility have achieved the first positive energy gain from a fusion reactor in history.','_blank')"> 
 Search on Google
 </button>
 

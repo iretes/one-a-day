@@ -71,7 +71,7 @@ Search on Google
 > *1824: Joseph Aspdin develops Portland cement (concrete), by heating ground limestone, clay and gypsum, in a kiln.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1824: Joseph Aspdin develops Portland cement (concrete), by heating ground limestone, clay and gypsum, in a kiln.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1824: Joseph Aspdin develops Portland cement (concrete), by heating ground limestone, clay and gypsum, in a kiln.','_blank')"> 
 Search on Google
 </button>
 

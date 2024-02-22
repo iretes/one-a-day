@@ -71,7 +71,7 @@ Search on Google
 > *1564: Gerolamo Cardano is the first to produce a systematic treatment of probability.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1564: Gerolamo Cardano is the first to produce a systematic treatment of probability.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1564: Gerolamo Cardano is the first to produce a systematic treatment of probability.','_blank')"> 
 Search on Google
 </button>
 

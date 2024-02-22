@@ -71,7 +71,7 @@ Search on Google
 > *300 BC: Euclid proves the Fundamental Theorem of Arithmetic.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid proves the Fundamental Theorem of Arithmetic.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid proves the Fundamental Theorem of Arithmetic.','_blank')"> 
 Search on Google
 </button>
 

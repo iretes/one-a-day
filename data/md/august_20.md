@@ -71,7 +71,7 @@ Search on Google
 > *200 BC: Apollonius of Perga discovers Apollonius's theorem.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=200 BC: Apollonius of Perga discovers Apollonius s theorem.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=200 BC: Apollonius of Perga discovers Apollonius s theorem.','_blank')"> 
 Search on Google
 </button>
 

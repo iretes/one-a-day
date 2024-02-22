@@ -71,7 +71,7 @@ Search on Google
 > *By 499: Aryabhata's work shows the use of the modern fraction notation, known as bhinnarasi.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=By 499: Aryabhata s work shows the use of the modern fraction notation, known as bhinnarasi.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=By 499: Aryabhata s work shows the use of the modern fraction notation, known as bhinnarasi.','_blank')"> 
 Search on Google
 </button>
 

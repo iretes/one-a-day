@@ -71,7 +71,7 @@ Search on Google
 > *2600 BC: The oldest attested evidence for the existence of units of weight, and weighing scales date to the Fourth Dynasty of Egypt, with Deben (unit) balance weights, excavated from the reign of Sneferu, though earlier usage has been proposed.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2600 BC: The oldest attested evidence for the existence of units of weight, and weighing scales date to the Fourth Dynasty of Egypt, with Deben (unit) balance weights, excavated from the reign of Sneferu, though earlier usage has been proposed.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2600 BC: The oldest attested evidence for the existence of units of weight, and weighing scales date to the Fourth Dynasty of Egypt, with Deben (unit) balance weights, excavated from the reign of Sneferu, though earlier usage has been proposed.','_blank')"> 
 Search on Google
 </button>
 

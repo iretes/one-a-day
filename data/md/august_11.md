@@ -71,7 +71,7 @@ Search on Google
 > *1380: Madhava of Sangamagrama solves transcendental equations by iteration.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama solves transcendental equations by iteration.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama solves transcendental equations by iteration.','_blank')"> 
 Search on Google
 </button>
 

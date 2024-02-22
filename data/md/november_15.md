@@ -71,7 +71,7 @@ Search on Google
 > *499: Aryabhata creates a particularly accurate eclipse chart. As an example of its accuracy, 18th century scientist Guillaume Le Gentil, during a visit to Pondicherry, India, found the Indian computations (based on Aryabhata's computational paradigm) of the duration of the lunar eclipse of 30 August 1765 to be short by 41 seconds, whereas his charts (by Tobias Mayer, 1752) were long by 68 seconds.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Aryabhata creates a particularly accurate eclipse chart. As an example of its accuracy, 18th century scientist Guillaume Le Gentil, during a visit to Pondicherry, India, found the Indian computations (based on Aryabhata s computational paradigm) of the duration of the lunar eclipse of 30 August 1765 to be short by 41 seconds, whereas his charts (by Tobias Mayer, 1752) were long by 68 seconds.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Aryabhata creates a particularly accurate eclipse chart. As an example of its accuracy, 18th century scientist Guillaume Le Gentil, during a visit to Pondicherry, India, found the Indian computations (based on Aryabhata s computational paradigm) of the duration of the lunar eclipse of 30 August 1765 to be short by 41 seconds, whereas his charts (by Tobias Mayer, 1752) were long by 68 seconds.','_blank')"> 
 Search on Google
 </button>
 

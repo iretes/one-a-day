@@ -71,7 +71,7 @@ Search on Google
 > *300 BC: Euclid discovers the Euclidean algorithm.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid discovers the Euclidean algorithm.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid discovers the Euclidean algorithm.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1620: Appearance of the first compound microscopes in Europe.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1620: Appearance of the first compound microscopes in Europe.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1620: Appearance of the first compound microscopes in Europe.','_blank')"> 
 Search on Google
 </button>
 

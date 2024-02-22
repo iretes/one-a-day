@@ -71,7 +71,7 @@ Search on Google
 > *300 BC: Greek mathematician Euclid in the Elements describes a primitive form of formal proof and axiomatic systems. However, modern mathematicians generally believe that his axioms were highly incomplete, and that his definitions were not really used in his proofs.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=300 BC: Greek mathematician Euclid in the Elements describes a primitive form of formal proof and axiomatic systems. However, modern mathematicians generally believe that his axioms were highly incomplete, and that his definitions were not really used in his proofs.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=300 BC: Greek mathematician Euclid in the Elements describes a primitive form of formal proof and axiomatic systems. However, modern mathematicians generally believe that his axioms were highly incomplete, and that his definitions were not really used in his proofs.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *3000 BC: The first deciphered numeral system is that of the Egyptian numerals, a sign-value system (as opposed to a place-value system).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3000 BC: The first deciphered numeral system is that of the Egyptian numerals, a sign-value system (as opposed to a place-value system).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3000 BC: The first deciphered numeral system is that of the Egyptian numerals, a sign-value system (as opposed to a place-value system).','_blank')"> 
 Search on Google
 </button>
 

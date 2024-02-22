@@ -71,7 +71,7 @@ Search on Google
 > *1930: Subrahmanyan Chandrasekhar discovers his eponymous limit of the maximum mass of a white dwarf star*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1930: Subrahmanyan Chandrasekhar discovers his eponymous limit of the maximum mass of a white dwarf star','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1930: Subrahmanyan Chandrasekhar discovers his eponymous limit of the maximum mass of a white dwarf star','_blank')"> 
 Search on Google
 </button>
 

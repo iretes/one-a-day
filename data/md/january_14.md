@@ -71,7 +71,7 @@ Search on Google
 > *1848: Lord Kelvin: absolute zero.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1848: Lord Kelvin: absolute zero.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1848: Lord Kelvin: absolute zero.','_blank')"> 
 Search on Google
 </button>
 

@@ -73,7 +73,7 @@ Search on Google
 > *2nd century: Ptolemy formalises the epicycles of Apollonius.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2nd century: Ptolemy formalises the epicycles of Apollonius.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2nd century: Ptolemy formalises the epicycles of Apollonius.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1932: James Chadwick: Discovery of the neutron*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1932: James Chadwick: Discovery of the neutron','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1932: James Chadwick: Discovery of the neutron','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1843: James Prescott Joule: Law of Conservation of energy (First law of thermodynamics), also 1847 – Helmholtz, Conservation of energy.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1843: James Prescott Joule: Law of Conservation of energy (First law of thermodynamics), also 1847 – Helmholtz, Conservation of energy.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1843: James Prescott Joule: Law of Conservation of energy (First law of thermodynamics), also 1847 – Helmholtz, Conservation of energy.','_blank')"> 
 Search on Google
 </button>
 

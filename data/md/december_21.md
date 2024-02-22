@@ -71,7 +71,7 @@ Search on Google
 > *1898: J.J. Thomson proposed the plum pudding model of an atom*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1898: J.J. Thomson proposed the plum pudding model of an atom','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1898: J.J. Thomson proposed the plum pudding model of an atom','_blank')"> 
 Search on Google
 </button>
 

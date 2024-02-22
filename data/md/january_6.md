@@ -71,7 +71,7 @@ Search on Google
 > *By the 5th century: The elliptical orbits of planets are discovered in India by at least the time of Aryabhata, and are used for the calculations of orbital periods and eclipse timings.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=By the 5th century: The elliptical orbits of planets are discovered in India by at least the time of Aryabhata, and are used for the calculations of orbital periods and eclipse timings.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=By the 5th century: The elliptical orbits of planets are discovered in India by at least the time of Aryabhata, and are used for the calculations of orbital periods and eclipse timings.','_blank')"> 
 Search on Google
 </button>
 

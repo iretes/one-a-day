@@ -71,7 +71,7 @@ Search on Google
 > *2000 BC: Multiplication tables in Babylon.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2000 BC: Multiplication tables in Babylon.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2000 BC: Multiplication tables in Babylon.','_blank')"> 
 Search on Google
 </button>
 

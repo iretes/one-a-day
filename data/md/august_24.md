@@ -71,7 +71,7 @@ Search on Google
 > *500 BC: Hippasus, a Pythagorean, discovers irrational numbers.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=500 BC: Hippasus, a Pythagorean, discovers irrational numbers.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=500 BC: Hippasus, a Pythagorean, discovers irrational numbers.','_blank')"> 
 Search on Google
 </button>
 

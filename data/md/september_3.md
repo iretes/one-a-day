@@ -71,7 +71,7 @@ Search on Google
 > *1929: Edwin Hubble: Hubble's law of the expanding universe*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1929: Edwin Hubble: Hubble s law of the expanding universe','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1929: Edwin Hubble: Hubble s law of the expanding universe','_blank')"> 
 Search on Google
 </button>
 

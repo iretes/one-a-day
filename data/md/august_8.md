@@ -71,7 +71,7 @@ Search on Google
 > *1934: Enrico Fermi: Nuclear fission by neutron irradiation*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1934: Enrico Fermi: Nuclear fission by neutron irradiation','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1934: Enrico Fermi: Nuclear fission by neutron irradiation','_blank')"> 
 Search on Google
 </button>
 

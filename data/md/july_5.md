@@ -71,7 +71,7 @@ Search on Google
 > *1997: CDF and DØ experiments at Fermilab: Top quark.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1997: CDF and DØ experiments at Fermilab: Top quark.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1997: CDF and DØ experiments at Fermilab: Top quark.','_blank')"> 
 Search on Google
 </button>
 

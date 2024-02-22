@@ -71,7 +71,7 @@ Search on Google
 > *816: Jain mathematician Virasena describes the integer logarithm.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=816: Jain mathematician Virasena describes the integer logarithm.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=816: Jain mathematician Virasena describes the integer logarithm.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *1763: Thomas Bayes: publishes the first version of Bayes' theorem, paving the way for Bayesian probability.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1763: Thomas Bayes: publishes the first version of Bayes  theorem, paving the way for Bayesian probability.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1763: Thomas Bayes: publishes the first version of Bayes  theorem, paving the way for Bayesian probability.','_blank')"> 
 Search on Google
 </button>
 

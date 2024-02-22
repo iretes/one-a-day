@@ -71,7 +71,7 @@ Search on Google
 > *260 BC: Aristarchus of Samos proposes a basic heliocentric model of the universe.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=260 BC: Aristarchus of Samos proposes a basic heliocentric model of the universe.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=260 BC: Aristarchus of Samos proposes a basic heliocentric model of the universe.','_blank')"> 
 Search on Google
 </button>
 

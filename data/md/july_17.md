@@ -71,7 +71,7 @@ Search on Google
 > *1761: Mikhail Lomonosov: discovery of the atmosphere of Venus.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1761: Mikhail Lomonosov: discovery of the atmosphere of Venus.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1761: Mikhail Lomonosov: discovery of the atmosphere of Venus.','_blank')"> 
 Search on Google
 </button>
 

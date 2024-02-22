@@ -71,7 +71,7 @@ Search on Google
 > *2001: The first draft of the Human Genome Project is published.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2001: The first draft of the Human Genome Project is published.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2001: The first draft of the Human Genome Project is published.','_blank')"> 
 Search on Google
 </button>
 

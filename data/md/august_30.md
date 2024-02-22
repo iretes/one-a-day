@@ -71,7 +71,7 @@ Search on Google
 > *1994: Andrew Wiles proves Fermat's Last Theorem*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1994: Andrew Wiles proves Fermat s Last Theorem','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1994: Andrew Wiles proves Fermat s Last Theorem','_blank')"> 
 Search on Google
 </button>
 

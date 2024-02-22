@@ -71,7 +71,7 @@ Search on Google
 > *2020: 5G became increasingly widespread.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: 5G became increasingly widespread.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: 5G became increasingly widespread.','_blank')"> 
 Search on Google
 </button>
 

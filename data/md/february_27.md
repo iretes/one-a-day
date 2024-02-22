@@ -71,7 +71,7 @@ Search on Google
 > *4th century BC: Thaetetus enumerates the Platonic solids, an early work in graph theory.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=4th century BC: Thaetetus enumerates the Platonic solids, an early work in graph theory.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=4th century BC: Thaetetus enumerates the Platonic solids, an early work in graph theory.','_blank')"> 
 Search on Google
 </button>
 

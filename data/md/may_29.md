@@ -71,7 +71,7 @@ Search on Google
 > *2000 BC: Primitive positional notation for numerals is seen in the Babylonian cuneiform numerals. However, the lack of clarity around the notion of zero made their system highly ambiguous (e.g. 13200 would be written the same as 132).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2000 BC: Primitive positional notation for numerals is seen in the Babylonian cuneiform numerals. However, the lack of clarity around the notion of zero made their system highly ambiguous (e.g. 13200 would be written the same as 132).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2000 BC: Primitive positional notation for numerals is seen in the Babylonian cuneiform numerals. However, the lack of clarity around the notion of zero made their system highly ambiguous (e.g. 13200 would be written the same as 132).','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *3rd century: Diophantus discusses linear diophantine equations.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century: Diophantus discusses linear diophantine equations.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century: Diophantus discusses linear diophantine equations.','_blank')"> 
 Search on Google
 </button>
 

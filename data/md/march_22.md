@@ -71,7 +71,7 @@ Search on Google
 > *1838: Friedrich Bessel: first successful measure of stellar parallax (to star 61 Cygni).*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1838: Friedrich Bessel: first successful measure of stellar parallax (to star 61 Cygni).','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1838: Friedrich Bessel: first successful measure of stellar parallax (to star 61 Cygni).','_blank')"> 
 Search on Google
 </button>
 

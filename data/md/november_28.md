@@ -71,7 +71,7 @@ Search on Google
 > *2020: The Royal Astronomical Society announced the detection of phosphine gas in Venus' atmosphere on 14 September 2020, which is known to be a strong predictor for the presence of microbial life.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2020: The Royal Astronomical Society announced the detection of phosphine gas in Venus  atmosphere on 14 September 2020, which is known to be a strong predictor for the presence of microbial life.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2020: The Royal Astronomical Society announced the detection of phosphine gas in Venus  atmosphere on 14 September 2020, which is known to be a strong predictor for the presence of microbial life.','_blank')"> 
 Search on Google
 </button>
 

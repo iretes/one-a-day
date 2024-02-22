@@ -71,7 +71,7 @@ Search on Google
 > *1912: Alfred Wegener: Continental drift*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1912: Alfred Wegener: Continental drift','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1912: Alfred Wegener: Continental drift','_blank')"> 
 Search on Google
 </button>
 

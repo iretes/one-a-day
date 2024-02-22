@@ -71,7 +71,7 @@ Search on Google
 > *1802: Jean-Baptiste Lamarck: teleological evolution.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1802: Jean-Baptiste Lamarck: teleological evolution.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1802: Jean-Baptiste Lamarck: teleological evolution.','_blank')"> 
 Search on Google
 </button>
 

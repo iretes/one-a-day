@@ -71,7 +71,7 @@ Search on Google
 > *525: John Philoponus in Byzantine Egypt describes the notion of inertia, and states that the motion of a falling object does not depend on its weight. His radical rejection of Aristotlean orthodoxy lead him to be ignored in his time*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=525: John Philoponus in Byzantine Egypt describes the notion of inertia, and states that the motion of a falling object does not depend on its weight. His radical rejection of Aristotlean orthodoxy lead him to be ignored in his time','_blank')">
+onclick=" window.open('http://www.google.com/search?q=525: John Philoponus in Byzantine Egypt describes the notion of inertia, and states that the motion of a falling object does not depend on its weight. His radical rejection of Aristotlean orthodoxy lead him to be ignored in his time','_blank')"> 
 Search on Google
 </button>
 

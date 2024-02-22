@@ -71,7 +71,7 @@ Search on Google
 > *1295: Scottish priest Duns Scotus writes about the mutual beneficence of trade.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1295: Scottish priest Duns Scotus writes about the mutual beneficence of trade.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1295: Scottish priest Duns Scotus writes about the mutual beneficence of trade.','_blank')"> 
 Search on Google
 </button>
 

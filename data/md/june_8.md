@@ -71,7 +71,7 @@ Search on Google
 > *1380: Madhava of Sangamagrama develops the Taylor series, and derives the Taylor series representation for the sine, cosine and arctangent functions, and uses it to produce the Leibniz series for π.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama develops the Taylor series, and derives the Taylor series representation for the sine, cosine and arctangent functions, and uses it to produce the Leibniz series for π.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1380: Madhava of Sangamagrama develops the Taylor series, and derives the Taylor series representation for the sine, cosine and arctangent functions, and uses it to produce the Leibniz series for π.','_blank')"> 
 Search on Google
 </button>
 

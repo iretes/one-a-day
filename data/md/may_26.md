@@ -71,7 +71,7 @@ Search on Google
 > *By the 4th century: The present Hindu–Arabic numeral system with place-value numerals develops in Gupta-era India, and is attested in the Bakhshali Manuscript of Gandhara. The superiority of the system over existing place-value and sign-value systems arises from its treatment of zero as an ordinary numeral.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=By the 4th century: The present Hindu–Arabic numeral system with place-value numerals develops in Gupta-era India, and is attested in the Bakhshali Manuscript of Gandhara. The superiority of the system over existing place-value and sign-value systems arises from its treatment of zero as an ordinary numeral.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=By the 4th century: The present Hindu–Arabic numeral system with place-value numerals develops in Gupta-era India, and is attested in the Bakhshali Manuscript of Gandhara. The superiority of the system over existing place-value and sign-value systems arises from its treatment of zero as an ordinary numeral.','_blank')"> 
 Search on Google
 </button>
 

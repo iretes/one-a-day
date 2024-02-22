@@ -71,7 +71,7 @@ Search on Google
 > *1877: Ludwig Boltzmann: Statistical definition of entropy.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1877: Ludwig Boltzmann: Statistical definition of entropy.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1877: Ludwig Boltzmann: Statistical definition of entropy.','_blank')"> 
 Search on Google
 </button>
 

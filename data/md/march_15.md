@@ -71,7 +71,7 @@ Search on Google
 > *499: Aryabhata gives a new symbol for zero and uses it for the decimal system.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=499: Aryabhata gives a new symbol for zero and uses it for the decimal system.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=499: Aryabhata gives a new symbol for zero and uses it for the decimal system.','_blank')"> 
 Search on Google
 </button>
 

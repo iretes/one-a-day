@@ -71,7 +71,7 @@ Search on Google
 > *1058: al-Zarqālī in Islamic Spain discovers the apsidal precession of the Sun.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1058: al-Zarqālī in Islamic Spain discovers the apsidal precession of the Sun.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1058: al-Zarqālī in Islamic Spain discovers the apsidal precession of the Sun.','_blank')"> 
 Search on Google
 </button>
 

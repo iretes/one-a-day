@@ -71,7 +71,7 @@ Search on Google
 > *600 BC: Maharshi Kanada gives the ideal of the smallest units of matter. According to him, matter consisted of indestructible minutes particles called paramanus, which are now called as atoms.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=600 BC: Maharshi Kanada gives the ideal of the smallest units of matter. According to him, matter consisted of indestructible minutes particles called paramanus, which are now called as atoms.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=600 BC: Maharshi Kanada gives the ideal of the smallest units of matter. According to him, matter consisted of indestructible minutes particles called paramanus, which are now called as atoms.','_blank')"> 
 Search on Google
 </button>
 

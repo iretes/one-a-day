@@ -71,7 +71,7 @@ Search on Google
 > *300 BC: Euclid publishes the Elements, a compendium on classical Euclidean geometry, including: elementary theorems on circles, definitions of the centers of a triangle, the tangent-secant theorem, the law of sines and the law of cosines.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid publishes the Elements, a compendium on classical Euclidean geometry, including: elementary theorems on circles, definitions of the centers of a triangle, the tangent-secant theorem, the law of sines and the law of cosines.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=300 BC: Euclid publishes the Elements, a compendium on classical Euclidean geometry, including: elementary theorems on circles, definitions of the centers of a triangle, the tangent-secant theorem, the law of sines and the law of cosines.','_blank')"> 
 Search on Google
 </button>
 

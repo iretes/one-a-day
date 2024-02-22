@@ -71,7 +71,7 @@ Search on Google
 > *1892: Dmitri Ivanovsky discovers viruses.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1892: Dmitri Ivanovsky discovers viruses.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1892: Dmitri Ivanovsky discovers viruses.','_blank')"> 
 Search on Google
 </button>
 

@@ -71,7 +71,7 @@ Search on Google
 > *2021: China sends Nie Haisheng, Liu Boming and Tang Hongbo to assemble and then occupy and work aboard the Tiangong space station.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2021: China sends Nie Haisheng, Liu Boming and Tang Hongbo to assemble and then occupy and work aboard the Tiangong space station.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2021: China sends Nie Haisheng, Liu Boming and Tang Hongbo to assemble and then occupy and work aboard the Tiangong space station.','_blank')"> 
 Search on Google
 </button>
 

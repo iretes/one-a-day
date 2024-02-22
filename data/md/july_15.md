@@ -71,7 +71,7 @@ Search on Google
 > *1983: Kary Mullis invents the polymerase chain reaction, a key discovery in molecular biology*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1983: Kary Mullis invents the polymerase chain reaction, a key discovery in molecular biology','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1983: Kary Mullis invents the polymerase chain reaction, a key discovery in molecular biology','_blank')"> 
 Search on Google
 </button>
 

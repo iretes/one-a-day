@@ -71,7 +71,7 @@ Search on Google
 > *2005: Grid cells in the brain are discovered by Edvard Moser and May-Britt Moser.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=2005: Grid cells in the brain are discovered by Edvard Moser and May-Britt Moser.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=2005: Grid cells in the brain are discovered by Edvard Moser and May-Britt Moser.','_blank')"> 
 Search on Google
 </button>
 

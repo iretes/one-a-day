@@ -71,7 +71,7 @@ Search on Google
 > *1912: Max von Laue: x-ray diffraction*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1912: Max von Laue: x-ray diffraction','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1912: Max von Laue: x-ray diffraction','_blank')"> 
 Search on Google
 </button>
 

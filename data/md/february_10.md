@@ -71,7 +71,7 @@ Search on Google
 > *1922: Frederick Banting, Charles Best, James Collip, John Macleod: isolation and production of insulin to control diabetes*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1922: Frederick Banting, Charles Best, James Collip, John Macleod: isolation and production of insulin to control diabetes','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1922: Frederick Banting, Charles Best, James Collip, John Macleod: isolation and production of insulin to control diabetes','_blank')"> 
 Search on Google
 </button>
 

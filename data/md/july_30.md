@@ -71,7 +71,7 @@ Search on Google
 > *1755: Immanuel Kant: Gaseous Hypothesis in Universal Natural History and Theory of Heaven.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1755: Immanuel Kant: Gaseous Hypothesis in Universal Natural History and Theory of Heaven.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1755: Immanuel Kant: Gaseous Hypothesis in Universal Natural History and Theory of Heaven.','_blank')"> 
 Search on Google
 </button>
 

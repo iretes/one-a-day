@@ -71,7 +71,7 @@ Search on Google
 > *1929: Alexander Fleming: Penicillin, the first beta-lactam antibiotic*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1929: Alexander Fleming: Penicillin, the first beta-lactam antibiotic','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1929: Alexander Fleming: Penicillin, the first beta-lactam antibiotic','_blank')"> 
 Search on Google
 </button>
 

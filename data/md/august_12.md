@@ -71,7 +71,7 @@ Search on Google
 > *3rd century BC: Archimedes discovers the sum/difference identity for trigonometric functions in the form of the "Theorem of Broken Chords".*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes discovers the sum/difference identity for trigonometric functions in the form of the "Theorem of Broken Chords".','_blank')">
+onclick=" window.open('http://www.google.com/search?q=3rd century BC: Archimedes discovers the sum/difference identity for trigonometric functions in the form of the Theorem of Broken Chords.','_blank')"> 
 Search on Google
 </button>
 

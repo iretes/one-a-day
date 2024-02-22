@@ -71,7 +71,7 @@ Search on Google
 > *1771: Charles Messier: publishes catalogue of astronomical objects (Messier Objects) now known to include galaxies, star clusters, and nebulae.*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1771: Charles Messier: publishes catalogue of astronomical objects (Messier Objects) now known to include galaxies, star clusters, and nebulae.','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1771: Charles Messier: publishes catalogue of astronomical objects (Messier Objects) now known to include galaxies, star clusters, and nebulae.','_blank')"> 
 Search on Google
 </button>
 

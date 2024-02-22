@@ -71,7 +71,7 @@ Search on Google
 > *1962: Riccardo Giacconi and his team discover the first cosmic x-ray source, Scorpius X-1*
 
 <button class="btn btn-success"
-onclick=" window.open('http://www.google.com/search?q=1962: Riccardo Giacconi and his team discover the first cosmic x-ray source, Scorpius X-1','_blank')">
+onclick=" window.open('http://www.google.com/search?q=1962: Riccardo Giacconi and his team discover the first cosmic x-ray source, Scorpius X-1','_blank')"> 
 Search on Google
 </button>
 
