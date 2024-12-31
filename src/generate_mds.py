@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 OUTPUT_DIR = './data/md/'
-YEAR = 2024
+YEAR = 2025
 
 def build_monthly_page_content(month):
     days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
